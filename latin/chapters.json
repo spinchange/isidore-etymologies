@@ -1,0 +1,2568 @@
+{
+  "1": [
+    {
+      "book": 1,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE DISCIPLINA ET ARTE"
+    },
+    {
+      "book": 1,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE SEPTEM LIBERALIBVS DISCIPLINIS"
+    },
+    {
+      "book": 1,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE LITTERIS COMMVNIBVS"
+    },
+    {
+      "book": 1,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE LITTERIS LATINIS"
+    },
+    {
+      "book": 1,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE GRAMMATICA"
+    },
+    {
+      "book": 1,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE PARTIBVS ORATIONIS"
+    },
+    {
+      "book": 1,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE NOMINE"
+    },
+    {
+      "book": 1,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE PRONOMINE"
+    },
+    {
+      "book": 1,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE VERBO"
+    },
+    {
+      "book": 1,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE ADVERBIO"
+    },
+    {
+      "book": 1,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE PARTICIPIO"
+    },
+    {
+      "book": 1,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE CONIVNCTIONE"
+    },
+    {
+      "book": 1,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE PRAEPOSITIONE"
+    },
+    {
+      "book": 1,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE INTERIECTIONE"
+    },
+    {
+      "book": 1,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE LITTERIS APVD GRAMMATICOS"
+    },
+    {
+      "book": 1,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE SYLLABA"
+    },
+    {
+      "book": 1,
+      "chapter": 17,
+      "roman": "XVII",
+      "title": "DE PEDIBVS"
+    },
+    {
+      "book": 1,
+      "chapter": 18,
+      "roman": "XVIII",
+      "title": "DE ACCENTIBVS"
+    },
+    {
+      "book": 1,
+      "chapter": 19,
+      "roman": "XIX",
+      "title": "DE FIGVRIS ACCENTVVM"
+    },
+    {
+      "book": 1,
+      "chapter": 20,
+      "roman": "XX",
+      "title": "DE POSITVRIS"
+    },
+    {
+      "book": 1,
+      "chapter": 21,
+      "roman": "XXI",
+      "title": "DE NOTIS SENTENTIARVM"
+    },
+    {
+      "book": 1,
+      "chapter": 22,
+      "roman": "XXII",
+      "title": "DE NOTIS VVLGARIBVS"
+    },
+    {
+      "book": 1,
+      "chapter": 23,
+      "roman": "XXIII",
+      "title": "DE NOTIS IVRIDICIS"
+    },
+    {
+      "book": 1,
+      "chapter": 24,
+      "roman": "XXIV",
+      "title": "DE NOTIS MILITARIBVS"
+    },
+    {
+      "book": 1,
+      "chapter": 25,
+      "roman": "XXV",
+      "title": "DE NOTIS LITTERARVM"
+    },
+    {
+      "book": 1,
+      "chapter": 26,
+      "roman": "XXVI",
+      "title": "DE NOTIS DIGITORVM"
+    },
+    {
+      "book": 1,
+      "chapter": 27,
+      "roman": "XXVII",
+      "title": "DE ORTHOGRAPHIA"
+    },
+    {
+      "book": 1,
+      "chapter": 28,
+      "roman": "XXVIII",
+      "title": "DE ANALOGIA"
+    },
+    {
+      "book": 1,
+      "chapter": 29,
+      "roman": "XXIX",
+      "title": "DE ETYMOLOGIA"
+    },
+    {
+      "book": 1,
+      "chapter": 30,
+      "roman": "XXX",
+      "title": "DE GLOSSIS"
+    },
+    {
+      "book": 1,
+      "chapter": 31,
+      "roman": "XXXI",
+      "title": "DE DIFFERENTIIS"
+    },
+    {
+      "book": 1,
+      "chapter": 32,
+      "roman": "XXXII",
+      "title": "DE BARBARISMO"
+    },
+    {
+      "book": 1,
+      "chapter": 33,
+      "roman": "XXXIII",
+      "title": "DE SOLOECISMIS"
+    },
+    {
+      "book": 1,
+      "chapter": 34,
+      "roman": "XXXIV",
+      "title": "DE VITIIS"
+    },
+    {
+      "book": 1,
+      "chapter": 35,
+      "roman": "XXXV",
+      "title": "DE METAPLASMIS"
+    },
+    {
+      "book": 1,
+      "chapter": 36,
+      "roman": "XXXVI",
+      "title": "DE SCHEMATIBVS"
+    },
+    {
+      "book": 1,
+      "chapter": 37,
+      "roman": "XXXVII",
+      "title": "DE TROPIS"
+    },
+    {
+      "book": 1,
+      "chapter": 38,
+      "roman": "XXXVIII",
+      "title": "DE PROSA"
+    },
+    {
+      "book": 1,
+      "chapter": 39,
+      "roman": "XXXIX",
+      "title": "DE METRIS"
+    },
+    {
+      "book": 1,
+      "chapter": 40,
+      "roman": "XL",
+      "title": "DE FABVLA"
+    },
+    {
+      "book": 1,
+      "chapter": 41,
+      "roman": "XLI",
+      "title": "DE HISTORIA"
+    },
+    {
+      "book": 1,
+      "chapter": 42,
+      "roman": "XLII",
+      "title": "DE PRIMIS AVCTORIBVS HISTORIARVM"
+    },
+    {
+      "book": 1,
+      "chapter": 43,
+      "roman": "XLIII",
+      "title": "DE VTILITATE HISTORIAE"
+    },
+    {
+      "book": 1,
+      "chapter": 44,
+      "roman": "XLIV",
+      "title": "DE GENERIBVS HISTORIAE"
+    }
+  ],
+  "2": [
+    {
+      "book": 2,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE RHETORICA EIVSQVE NOMINE"
+    },
+    {
+      "book": 2,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE INVENTORIBVS RHETORICAE ARTIS"
+    },
+    {
+      "book": 2,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE NOMINE ORATORIS ET PARTIBVS RHETORICAE"
+    },
+    {
+      "book": 2,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE TRIBVS GENERIBVS CAVSARVM"
+    },
+    {
+      "book": 2,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE GEMINO STATV CAVSARVM"
+    },
+    {
+      "book": 2,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE TRIPERTITA CONTROVERSIA"
+    },
+    {
+      "book": 2,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE QVATTVOR PARTIBVS ORATIONIS"
+    },
+    {
+      "book": 2,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE QVINQVE MODIS CAVSARVM"
+    },
+    {
+      "book": 2,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE SYLLOGISMIS"
+    },
+    {
+      "book": 2,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE LEGE"
+    },
+    {
+      "book": 2,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE SENTENTIA"
+    },
+    {
+      "book": 2,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE CATASCEVA ET ANASCEVA"
+    },
+    {
+      "book": 2,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE PROSOPOEIA"
+    },
+    {
+      "book": 2,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE ETHOPOEIA"
+    },
+    {
+      "book": 2,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE GENERIBVS QVAESTIONVM"
+    },
+    {
+      "book": 2,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE ELOCVTIONE"
+    },
+    {
+      "book": 2,
+      "chapter": 17,
+      "roman": "XVII",
+      "title": "DE TRIMODO DICENDI GENERE"
+    },
+    {
+      "book": 2,
+      "chapter": 18,
+      "roman": "XVIII",
+      "title": "DE COLO, COMMATE, ET PERIODIS"
+    },
+    {
+      "book": 2,
+      "chapter": 19,
+      "roman": "XIX",
+      "title": "DE VITIIS LITTERARVM ET VERBORVM ET SENTENTIARVM CAVENDIS"
+    },
+    {
+      "book": 2,
+      "chapter": 20,
+      "roman": "XX",
+      "title": "DE IVNCTVRIS VERBORVM"
+    },
+    {
+      "book": 2,
+      "chapter": 21,
+      "roman": "XXI",
+      "title": "DE FIGVRIS VERBORVM ET SENTENTIARVM"
+    },
+    {
+      "book": 2,
+      "chapter": 22,
+      "roman": "XXII",
+      "title": "DE DIALECTICA"
+    },
+    {
+      "book": 2,
+      "chapter": 23,
+      "roman": "XXIII",
+      "title": "DE DIFFERENTIA DIALECTICAE ET RHETORICAE ARTIS"
+    },
+    {
+      "book": 2,
+      "chapter": 24,
+      "roman": "XXIV",
+      "title": "DE DEFINITIONE PHILOSOPHIAE"
+    },
+    {
+      "book": 2,
+      "chapter": 25,
+      "roman": "XXV",
+      "title": "DE ISAGOGIS PORPHYRII"
+    },
+    {
+      "book": 2,
+      "chapter": 26,
+      "roman": "XXVI",
+      "title": "DE CATEGORIIS ARISTOTELIS"
+    },
+    {
+      "book": 2,
+      "chapter": 27,
+      "roman": "XXVII",
+      "title": "DE PERIHERMENIIS"
+    },
+    {
+      "book": 2,
+      "chapter": 28,
+      "roman": "XXVIII",
+      "title": "DE SYLLOGISMIS DIALECTICIS"
+    },
+    {
+      "book": 2,
+      "chapter": 29,
+      "roman": "XXIX",
+      "title": "DE DIVISIONE DEFINITIONVM EX MARII VICTORINI LIBRO ABBREVIATA"
+    },
+    {
+      "book": 2,
+      "chapter": 30,
+      "roman": "XXX",
+      "title": "DE TOPICIS"
+    },
+    {
+      "book": 2,
+      "chapter": 31,
+      "roman": "XXXI",
+      "title": "DE OPPOSITIS"
+    }
+  ],
+  "3": [
+    {
+      "book": 3,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE VOCABVLO ARITHMETICAE DISCIPLINAE"
+    },
+    {
+      "book": 3,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE AVCTORIBVS EIVS"
+    },
+    {
+      "book": 3,
+      "chapter": 3,
+      "roman": "III",
+      "title": "QVID SIT NVMERVS"
+    },
+    {
+      "book": 3,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "QVID PRAESTENT NVMERI"
+    },
+    {
+      "book": 3,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE PRIMA DIVISIONE PARIVM ET INPARIVM"
+    },
+    {
+      "book": 3,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE SECVNDA DIVISIONE TOTIVS NVMERI"
+    },
+    {
+      "book": 3,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE TERTIA DIVISIONE TOTIVS NVMERI"
+    },
+    {
+      "book": 3,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE DIFFERENTIA ARITHMETICAE, GEOMETRIAE ET MVSICAE"
+    },
+    {
+      "book": 3,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "QVOT NVMERI INFINITI EXISTVNT"
+    },
+    {
+      "book": 3,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE INVENTORIBVS GEOMETRIAE ET VOCABVLO EIVS"
+    },
+    {
+      "book": 3,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE QVADRIPERTITA DIVISIONE GEOMETRIAE"
+    },
+    {
+      "book": 3,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE FIGVRIS GEOMETRIAE"
+    },
+    {
+      "book": 3,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE NVMERIS GEOMETRIAE"
+    },
+    {
+      "book": 3,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "EXPOSITIO FIGVRARVM INFRA SCRIPTARVM"
+    },
+    {
+      "book": 3,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE MVSICA ET EIVS NOMINE"
+    },
+    {
+      "book": 3,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE INVENTORIBVS EIVS"
+    },
+    {
+      "book": 3,
+      "chapter": 17,
+      "roman": "XVII",
+      "title": "QVID POSSIT MVSICA"
+    },
+    {
+      "book": 3,
+      "chapter": 18,
+      "roman": "XVIII",
+      "title": "DE TRIBVS PARTIBVS MVSICAE"
+    },
+    {
+      "book": 3,
+      "chapter": 19,
+      "roman": "XIX",
+      "title": "DE TRIFORMI MVSICAE DIVISIONE"
+    },
+    {
+      "book": 3,
+      "chapter": 20,
+      "roman": "XX",
+      "title": "DE PRIMA DIVISIONE MVSICAE QVAE HARMONICA DICITVR"
+    },
+    {
+      "book": 3,
+      "chapter": 21,
+      "roman": "XXI",
+      "title": "DE SECVNDA DIVISIONE, QVAE ORGANICA DICITVR"
+    },
+    {
+      "book": 3,
+      "chapter": 22,
+      "roman": "XXII",
+      "title": "DE TERTIA DIVISIONE, QVAE RYTHMICA NVNCVPATVR"
+    },
+    {
+      "book": 3,
+      "chapter": 23,
+      "roman": "XXIII",
+      "title": "DE NVMERIS MVSICIS"
+    },
+    {
+      "book": 3,
+      "chapter": 24,
+      "roman": "XXIV",
+      "title": "DE ASTRONOMIAE NOMINE"
+    },
+    {
+      "book": 3,
+      "chapter": 25,
+      "roman": "XXV",
+      "title": "DE INVENTORIBVS EIVS"
+    },
+    {
+      "book": 3,
+      "chapter": 26,
+      "roman": "XXVI",
+      "title": "DE INSTITVTORIBVS EIVS"
+    },
+    {
+      "book": 3,
+      "chapter": 27,
+      "roman": "XXVII",
+      "title": "DE DIFFERENTIA ASTRONOMIAE ET ASTROLOGIAE"
+    },
+    {
+      "book": 3,
+      "chapter": 28,
+      "roman": "XXVIII",
+      "title": "DE ASTRONOMIAE RATIONE"
+    },
+    {
+      "book": 3,
+      "chapter": 29,
+      "roman": "XXIX",
+      "title": "DE MVNDO ET EIVS NOMINE"
+    },
+    {
+      "book": 3,
+      "chapter": 30,
+      "roman": "XXX",
+      "title": "DE FORMA MVNDI"
+    },
+    {
+      "book": 3,
+      "chapter": 31,
+      "roman": "XXXI",
+      "title": "DE CAELO ET EIVS NOMINE"
+    },
+    {
+      "book": 3,
+      "chapter": 32,
+      "roman": "XXXII",
+      "title": "DE SPHAERAE CAELESTIS SITV"
+    },
+    {
+      "book": 3,
+      "chapter": 33,
+      "roman": "XXXIII",
+      "title": "DE EIVSDEM SPHAERAE MOTV"
+    },
+    {
+      "book": 3,
+      "chapter": 34,
+      "roman": "XXXIV",
+      "title": "DE EIVSDEM SPHAERAE CVRSV"
+    },
+    {
+      "book": 3,
+      "chapter": 35,
+      "roman": "XXXV",
+      "title": "DE CELERITATE CAELI"
+    },
+    {
+      "book": 3,
+      "chapter": 36,
+      "roman": "XXXVI",
+      "title": "DE AXE CAELI"
+    },
+    {
+      "book": 3,
+      "chapter": 37,
+      "roman": "XXXVII",
+      "title": "DE CAELESTIBVS POLIS"
+    },
+    {
+      "book": 3,
+      "chapter": 38,
+      "roman": "XXXVIII",
+      "title": "DE CARDINIBVS CAELI"
+    },
+    {
+      "book": 3,
+      "chapter": 39,
+      "roman": "XXXIX",
+      "title": "DE CONVEXIS CAELI"
+    },
+    {
+      "book": 3,
+      "chapter": 40,
+      "roman": "XL",
+      "title": "DE IANVIS CAELI"
+    },
+    {
+      "book": 3,
+      "chapter": 41,
+      "roman": "XLI",
+      "title": "DE GEMINA FACIE CAELI"
+    },
+    {
+      "book": 3,
+      "chapter": 42,
+      "roman": "XLII",
+      "title": "DE QVATTVOR PARTIBVS CAELI"
+    },
+    {
+      "book": 3,
+      "chapter": 43,
+      "roman": "XLIII",
+      "title": "DE HEMISPHAERIIS"
+    },
+    {
+      "book": 3,
+      "chapter": 44,
+      "roman": "XLIV",
+      "title": "DE QVINQVE CIRCVLIS CAELI"
+    },
+    {
+      "book": 3,
+      "chapter": 45,
+      "roman": "XLV",
+      "title": "DE ZODIACO CIRCVLO"
+    },
+    {
+      "book": 3,
+      "chapter": 46,
+      "roman": "XLVI",
+      "title": "DE CANDIDO CIRCVLO"
+    },
+    {
+      "book": 3,
+      "chapter": 47,
+      "roman": "XLVII",
+      "title": "DE MAGNITVDINE SOLIS"
+    },
+    {
+      "book": 3,
+      "chapter": 48,
+      "roman": "XLVIII",
+      "title": "DE MAGNITVDINE LVNAE"
+    },
+    {
+      "book": 3,
+      "chapter": 49,
+      "roman": "XLIX",
+      "title": "DE NATVRA SOLIS"
+    },
+    {
+      "book": 3,
+      "chapter": 50,
+      "roman": "L",
+      "title": "DE CVRSV SOLIS"
+    },
+    {
+      "book": 3,
+      "chapter": 51,
+      "roman": "LI",
+      "title": "DE EFFECTV SOLIS"
+    },
+    {
+      "book": 3,
+      "chapter": 52,
+      "roman": "LII",
+      "title": "DE ITINERE SOLIS"
+    },
+    {
+      "book": 3,
+      "chapter": 53,
+      "roman": "LIII",
+      "title": "DE LVMINE LVNAE"
+    },
+    {
+      "book": 3,
+      "chapter": 54,
+      "roman": "LIV",
+      "title": "DE FORMIS LVNAE"
+    },
+    {
+      "book": 3,
+      "chapter": 55,
+      "roman": "LV",
+      "title": "DE INTERLVNIO LVNAE"
+    },
+    {
+      "book": 3,
+      "chapter": 56,
+      "roman": "LVI",
+      "title": "DE CVRSV LVNAE"
+    },
+    {
+      "book": 3,
+      "chapter": 57,
+      "roman": "LVII",
+      "title": "DE VICINITATE LVNAE AD TERRAS"
+    },
+    {
+      "book": 3,
+      "chapter": 58,
+      "roman": "LVIII",
+      "title": "DE ECLIPSI SOLIS"
+    },
+    {
+      "book": 3,
+      "chapter": 59,
+      "roman": "LIX",
+      "title": "DE ECLIPSI LVNAE"
+    },
+    {
+      "book": 3,
+      "chapter": 60,
+      "roman": "LX",
+      "title": "DE DIFFERENTIA STELLARVM, SIDERVM, ET ASTRORVM"
+    },
+    {
+      "book": 3,
+      "chapter": 61,
+      "roman": "LXI",
+      "title": "DE LVMINE STELLARVM"
+    },
+    {
+      "book": 3,
+      "chapter": 62,
+      "roman": "LXII",
+      "title": "DE STELLARVM SITV"
+    },
+    {
+      "book": 3,
+      "chapter": 63,
+      "roman": "LXIII",
+      "title": "DE STELLARVM CVRSV"
+    },
+    {
+      "book": 3,
+      "chapter": 64,
+      "roman": "LXIV",
+      "title": "DE VARIO CVRSV STELLARVM"
+    },
+    {
+      "book": 3,
+      "chapter": 65,
+      "roman": "LXV",
+      "title": "DE STELLARVM INTERVALLIS"
+    },
+    {
+      "book": 3,
+      "chapter": 66,
+      "roman": "LXVI",
+      "title": "DE CIRCVLARI NVMERO STELLARVM"
+    },
+    {
+      "book": 3,
+      "chapter": 67,
+      "roman": "LXVII",
+      "title": "DE STELLIS PLANETIS"
+    },
+    {
+      "book": 3,
+      "chapter": 68,
+      "roman": "LXVIII",
+      "title": "DE PRAECEDENTIA ET ANTEGRADATIONE STELLARVM"
+    },
+    {
+      "book": 3,
+      "chapter": 69,
+      "roman": "LXIX",
+      "title": "DE REMOTIONE VEL RETROGRADATIONE STELLARVM"
+    },
+    {
+      "book": 3,
+      "chapter": 70,
+      "roman": "LXX",
+      "title": "DE STATV STELLARVM"
+    },
+    {
+      "book": 3,
+      "chapter": 71,
+      "roman": "LXXI",
+      "title": "DE NOMINIBVS STELLARVM, QVIBVS EX CAVSIS NOMINA ACCEPERVNT"
+    }
+  ],
+  "4": [
+    {
+      "book": 4,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE MEDICINA"
+    },
+    {
+      "book": 4,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE NOMINE EIVS"
+    },
+    {
+      "book": 4,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE INVENTORIBVS MEDICINAE"
+    },
+    {
+      "book": 4,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE TRIBVS HAERESIBVS MEDICORVM"
+    },
+    {
+      "book": 4,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE QVATTVOR HVMORIBVS CORPORIS"
+    },
+    {
+      "book": 4,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE ACVTIS MORBIS"
+    },
+    {
+      "book": 4,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE CHRONICIS MORBIS"
+    },
+    {
+      "book": 4,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE MORBIS QVI IN SVPERFICIE CORPORIS VIDENTVR"
+    },
+    {
+      "book": 4,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE REMEDIIS ET MEDICAMINIBVS"
+    },
+    {
+      "book": 4,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE LIBRIS MEDICINALIBVS"
+    },
+    {
+      "book": 4,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE INSTRVMENTIS MEDICORVM"
+    },
+    {
+      "book": 4,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE ODORIBVS ET VNGVENTIS"
+    },
+    {
+      "book": 4,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE INITIO MEDICINAE"
+    }
+  ],
+  "6": [
+    {
+      "book": 6,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE VETERI ET NOVO TESTAMENTO"
+    },
+    {
+      "book": 6,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE SCRIPTORIBVS ET VOCABVLIS SANCTORVM LIBRORVM"
+    },
+    {
+      "book": 6,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE BIBLIOTHECIS"
+    },
+    {
+      "book": 6,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE INTERPRETIBVS"
+    },
+    {
+      "book": 6,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE EO QVI PRIMVM ROMAM LIBROS ADVEXIT"
+    },
+    {
+      "book": 6,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "QVI APVD NOS BIBLIOTHECAS INSTITVERVNT"
+    },
+    {
+      "book": 6,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "QVI MVLTA SCRIPSERVNT"
+    },
+    {
+      "book": 6,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE GENERIBVS OPVSCVLORVM"
+    },
+    {
+      "book": 6,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE CERIS"
+    },
+    {
+      "book": 6,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE CARTIS"
+    },
+    {
+      "book": 6,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE PERGAMENIS"
+    },
+    {
+      "book": 6,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE LIBRIS CONFICIENDIS"
+    },
+    {
+      "book": 6,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE LIBRORVM VOCABVLIS"
+    },
+    {
+      "book": 6,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE LIBRARIIS ET EORVM INSTRVMENTIS"
+    },
+    {
+      "book": 6,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE CANONIBVS EVANGELIORVM"
+    },
+    {
+      "book": 6,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE CANONIBVS CONCILIORVM"
+    },
+    {
+      "book": 6,
+      "chapter": 17,
+      "roman": "XVII",
+      "title": "DE CYCLO PASCHALI"
+    },
+    {
+      "book": 6,
+      "chapter": 18,
+      "roman": "XVIII",
+      "title": "DE RELIQVIS FESTIVITATIBVS"
+    },
+    {
+      "book": 6,
+      "chapter": 19,
+      "roman": "XIX",
+      "title": "DE OFFICIIS"
+    }
+  ],
+  "7": [
+    {
+      "book": 7,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE DEO"
+    },
+    {
+      "book": 7,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE FILIO DEI"
+    },
+    {
+      "book": 7,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE SPIRITV SANCTO"
+    },
+    {
+      "book": 7,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE TRINITATE"
+    },
+    {
+      "book": 7,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE ANGELIS"
+    },
+    {
+      "book": 7,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE HOMINIBVS QVI QVODAM PRAESAGIO NOMEN ACCEPERVNT"
+    },
+    {
+      "book": 7,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE PATRIARCHIS"
+    },
+    {
+      "book": 7,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE PROPHETIS"
+    },
+    {
+      "book": 7,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE APOSTOLIS"
+    },
+    {
+      "book": 7,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE RELIQVIS IN EVANGELIO NOMINIBVS"
+    },
+    {
+      "book": 7,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE MARTYRIBVS"
+    },
+    {
+      "book": 7,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE CLERICIS"
+    },
+    {
+      "book": 7,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE MONACHIS"
+    },
+    {
+      "book": 7,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE CETERIS FIDELIBVS"
+    }
+  ],
+  "8": [
+    {
+      "book": 8,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE ECCLESIA ET SYNAGOGA"
+    },
+    {
+      "book": 8,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE RELIGIONE ET FIDE"
+    },
+    {
+      "book": 8,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE HAERESI ET SCHISMATE"
+    },
+    {
+      "book": 8,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE HAERESIBVS IVDAEORVM"
+    },
+    {
+      "book": 8,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE HAERESIBVS CHRISTIANORVM"
+    },
+    {
+      "book": 8,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE PHILOSOPHIS GENTIVM"
+    },
+    {
+      "book": 8,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE POETIS"
+    },
+    {
+      "book": 8,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE SIBYLLIS"
+    },
+    {
+      "book": 8,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE MAGIS"
+    },
+    {
+      "book": 8,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE PAGANIS"
+    },
+    {
+      "book": 8,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE DIIS GENTIVM"
+    }
+  ],
+  "9": [
+    {
+      "book": 9,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE LINGVIS GENTIVM"
+    },
+    {
+      "book": 9,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE GENTIVM VOCABVLIS"
+    },
+    {
+      "book": 9,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE REGNIS MILITIAEQVE VOCABVLIS"
+    },
+    {
+      "book": 9,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE CIVIBUS"
+    },
+    {
+      "book": 9,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE ADFINITATIBVS ET GRADIBVS"
+    },
+    {
+      "book": 9,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE AGNATIS ET COGNATIS"
+    },
+    {
+      "book": 9,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE CONIVGIIS"
+    }
+  ],
+  "12": [
+    {
+      "book": 12,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE PECORIBVS ET IVMENTIS"
+    },
+    {
+      "book": 12,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE BESTIIS"
+    },
+    {
+      "book": 12,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE MINVTIS ANIMANTIBVS"
+    },
+    {
+      "book": 12,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE SERPENTIBVS"
+    },
+    {
+      "book": 12,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE VERMIBVS"
+    },
+    {
+      "book": 12,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE PISCIBVS"
+    },
+    {
+      "book": 12,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE AVIBVS"
+    },
+    {
+      "book": 12,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE MINVTIS VOLATILIBVS"
+    }
+  ],
+  "13": [
+    {
+      "book": 13,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE MVNDO"
+    },
+    {
+      "book": 13,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE ATOMIS"
+    },
+    {
+      "book": 13,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE ELEMENTIS"
+    },
+    {
+      "book": 13,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE CAELO"
+    },
+    {
+      "book": 13,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE PARTIBVS CAELI"
+    },
+    {
+      "book": 13,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE CIRCVLIS CAELI"
+    },
+    {
+      "book": 13,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE AERE ET NVBE"
+    },
+    {
+      "book": 13,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE TONITRVO"
+    },
+    {
+      "book": 13,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE FVLMINIBVS"
+    },
+    {
+      "book": 13,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE ARCV ET NVBIVM EFFECTIBVS"
+    },
+    {
+      "book": 13,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE VENTIS"
+    },
+    {
+      "book": 13,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE AQVIS"
+    },
+    {
+      "book": 13,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE DIVERSITATE AQVARVM"
+    },
+    {
+      "book": 13,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE MARI"
+    },
+    {
+      "book": 13,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE OCEANO"
+    },
+    {
+      "book": 13,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE MEDITERRANEO MARI"
+    },
+    {
+      "book": 13,
+      "chapter": 17,
+      "roman": "XVII",
+      "title": "DE SINIBVS MARIS"
+    },
+    {
+      "book": 13,
+      "chapter": 18,
+      "roman": "XVIII",
+      "title": "DE AESTIBVS ET FRETIS"
+    },
+    {
+      "book": 13,
+      "chapter": 19,
+      "roman": "XIX",
+      "title": "DE LACIS ET STAGNIS"
+    },
+    {
+      "book": 13,
+      "chapter": 20,
+      "roman": "XX",
+      "title": "DE ABYSSO"
+    },
+    {
+      "book": 13,
+      "chapter": 21,
+      "roman": "XXI",
+      "title": "DE FLVMINIBVS"
+    },
+    {
+      "book": 13,
+      "chapter": 22,
+      "roman": "XXII",
+      "title": "DE DILVVIIS"
+    }
+  ],
+  "14": [
+    {
+      "book": 14,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE TERRA"
+    },
+    {
+      "book": 14,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE ORBE"
+    },
+    {
+      "book": 14,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE ASIA"
+    },
+    {
+      "book": 14,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE EVROPA"
+    },
+    {
+      "book": 14,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE LIBYA"
+    },
+    {
+      "book": 14,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE INSVLIS"
+    },
+    {
+      "book": 14,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE PROMVNTORIIS"
+    },
+    {
+      "book": 14,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE MONTIBVS CETERISQVE TERRAE VOCABVLIS"
+    },
+    {
+      "book": 14,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE INFERIORIBVS"
+    }
+  ],
+  "15": [
+    {
+      "book": 15,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE CIVITATIBVS"
+    },
+    {
+      "book": 15,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE AEDIFICIIS PVBLICIS"
+    },
+    {
+      "book": 15,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE HABITACVLIS"
+    },
+    {
+      "book": 15,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE AEDIFICIIS SACRIS"
+    },
+    {
+      "book": 15,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE REPOSITORIIS"
+    },
+    {
+      "book": 15,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE OPERARIIS"
+    },
+    {
+      "book": 15,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE ADITIBVS"
+    },
+    {
+      "book": 15,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE PARTIBVS AEDIFICIORVM"
+    },
+    {
+      "book": 15,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE MVNITIONIBVS"
+    },
+    {
+      "book": 15,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE TENTORIIS"
+    },
+    {
+      "book": 15,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE SEPVLCHRIS"
+    },
+    {
+      "book": 15,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE AEDIFICIIS RVSTICIS"
+    },
+    {
+      "book": 15,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE AGRIS"
+    },
+    {
+      "book": 15,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE FINIBVS AGRORVM"
+    },
+    {
+      "book": 15,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE MENSVRIS AGRORVM"
+    },
+    {
+      "book": 15,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE ITINERIBVS"
+    }
+  ],
+  "16": [
+    {
+      "book": 16,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE PVLVERIUVS ET GLEBIS TERRAE"
+    },
+    {
+      "book": 16,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE GLEBIS EX AQVA"
+    },
+    {
+      "book": 16,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE LAPIDIBVS VVLGARIBVS"
+    },
+    {
+      "book": 16,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE LAPIDIBVS INSIGNIORIBVS"
+    },
+    {
+      "book": 16,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE MARMORIBVS"
+    },
+    {
+      "book": 16,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE GEMMIS"
+    },
+    {
+      "book": 16,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE VIRIDIORIBVS GEMMIS"
+    },
+    {
+      "book": 16,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE RVBRIS GEMMIS"
+    },
+    {
+      "book": 16,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE PVRPVREIS"
+    },
+    {
+      "book": 16,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE CANDIDIS"
+    },
+    {
+      "book": 16,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE NIGRIS"
+    },
+    {
+      "book": 16,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE VARIIS"
+    },
+    {
+      "book": 16,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE CRYSTALLINIS"
+    },
+    {
+      "book": 16,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE IGNITIS.)"
+    },
+    {
+      "book": 16,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE AVREIS"
+    },
+    {
+      "book": 16,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE VITRO"
+    },
+    {
+      "book": 16,
+      "chapter": 17,
+      "roman": "XVII",
+      "title": "DE METALLIS"
+    },
+    {
+      "book": 16,
+      "chapter": 18,
+      "roman": "XVIII",
+      "title": "DE AVRO"
+    },
+    {
+      "book": 16,
+      "chapter": 19,
+      "roman": "XIX",
+      "title": "DE ARGENTO"
+    },
+    {
+      "book": 16,
+      "chapter": 20,
+      "roman": "XX",
+      "title": "DE AERE"
+    },
+    {
+      "book": 16,
+      "chapter": 21,
+      "roman": "XXI",
+      "title": "DE FERRO"
+    },
+    {
+      "book": 16,
+      "chapter": 22,
+      "roman": "XXII",
+      "title": "DE PLVMBO"
+    },
+    {
+      "book": 16,
+      "chapter": 23,
+      "roman": "XXIII",
+      "title": "DE STAGNO"
+    },
+    {
+      "book": 16,
+      "chapter": 24,
+      "roman": "XXIV",
+      "title": "DE ELECTRO"
+    },
+    {
+      "book": 16,
+      "chapter": 25,
+      "roman": "XXV",
+      "title": "DE PONDERIBVS"
+    },
+    {
+      "book": 16,
+      "chapter": 26,
+      "roman": "XXVI",
+      "title": "DE MENSVRIS"
+    },
+    {
+      "book": 16,
+      "chapter": 27,
+      "roman": "XXVII",
+      "title": "DE SIGNIS"
+    }
+  ],
+  "17": [
+    {
+      "book": 17,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE AVCTORIBVS RERVM RVSTICARVM"
+    },
+    {
+      "book": 17,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE CVLTVRA AGRORVM"
+    },
+    {
+      "book": 17,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE FRVMENTIS"
+    },
+    {
+      "book": 17,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE LEGVMINIBVS"
+    },
+    {
+      "book": 17,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE VITIBVS"
+    },
+    {
+      "book": 17,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE ARBORIBVS"
+    },
+    {
+      "book": 17,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE PROPRIIS NOMINIBVS ARBORVM"
+    },
+    {
+      "book": 17,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE AROMATICIS ARBORIBVS"
+    },
+    {
+      "book": 17,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE HERBIS AROMATICIS SIVE COMMVNIBVS"
+    },
+    {
+      "book": 17,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE OLERIBVS"
+    },
+    {
+      "book": 17,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE ODORATIS OLERIBVS"
+    }
+  ],
+  "18": [
+    {
+      "book": 18,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE BELLIS"
+    },
+    {
+      "book": 18,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE TRIVMPHIS"
+    },
+    {
+      "book": 18,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE SIGNIS"
+    },
+    {
+      "book": 18,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE BVCINIS"
+    },
+    {
+      "book": 18,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE ARMIS"
+    },
+    {
+      "book": 18,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE GLADIIS"
+    },
+    {
+      "book": 18,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE HASTIS"
+    },
+    {
+      "book": 18,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE SAGITTIS"
+    },
+    {
+      "book": 18,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE FARETRIS"
+    },
+    {
+      "book": 18,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE FVNDIS"
+    },
+    {
+      "book": 18,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE ARIETE"
+    },
+    {
+      "book": 18,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE CLYPEIS"
+    },
+    {
+      "book": 18,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE LORICIS"
+    },
+    {
+      "book": 18,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE GALEIS"
+    },
+    {
+      "book": 18,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE FORO"
+    },
+    {
+      "book": 18,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE SPECTACVLIS"
+    },
+    {
+      "book": 18,
+      "chapter": 17,
+      "roman": "XVII",
+      "title": "DE LVDO GYMNICO"
+    },
+    {
+      "book": 18,
+      "chapter": 18,
+      "roman": "XVIII",
+      "title": "DE GENERIBVS GYMNICORVM"
+    },
+    {
+      "book": 18,
+      "chapter": 19,
+      "roman": "XIX",
+      "title": "DE SALTV"
+    },
+    {
+      "book": 18,
+      "chapter": 20,
+      "roman": "XX",
+      "title": "DE CVRSV"
+    },
+    {
+      "book": 18,
+      "chapter": 21,
+      "roman": "XXI",
+      "title": "DE IACTV"
+    },
+    {
+      "book": 18,
+      "chapter": 22,
+      "roman": "XXII",
+      "title": "DE VIRTVTE"
+    },
+    {
+      "book": 18,
+      "chapter": 23,
+      "roman": "XXIII",
+      "title": "DE LVCTATIONE"
+    },
+    {
+      "book": 18,
+      "chapter": 24,
+      "roman": "XXIV",
+      "title": "DE PALAESTRA"
+    },
+    {
+      "book": 18,
+      "chapter": 25,
+      "roman": "XXV",
+      "title": "DE AGONE"
+    },
+    {
+      "book": 18,
+      "chapter": 26,
+      "roman": "XXVI",
+      "title": "DE GENERIBVS AGONVM"
+    },
+    {
+      "book": 18,
+      "chapter": 27,
+      "roman": "XXVII",
+      "title": "DE LVDIS CIRCENSIBVS"
+    },
+    {
+      "book": 18,
+      "chapter": 28,
+      "roman": "XXVIII",
+      "title": "DE CIRCO"
+    },
+    {
+      "book": 18,
+      "chapter": 29,
+      "roman": "XXIX",
+      "title": "DE ORNAMENTIS"
+    },
+    {
+      "book": 18,
+      "chapter": 30,
+      "roman": "XXX",
+      "title": "DE METIS"
+    },
+    {
+      "book": 18,
+      "chapter": 31,
+      "roman": "XXXI",
+      "title": "DE OBELISCO"
+    },
+    {
+      "book": 18,
+      "chapter": 32,
+      "roman": "XXXII",
+      "title": "DE CARCERIBVS"
+    },
+    {
+      "book": 18,
+      "chapter": 33,
+      "roman": "XXXIII",
+      "title": "DE AVRIGIS"
+    },
+    {
+      "book": 18,
+      "chapter": 34,
+      "roman": "XXXIV",
+      "title": "DE QVADRIGIS"
+    },
+    {
+      "book": 18,
+      "chapter": 35,
+      "roman": "XXXV",
+      "title": "DE CVRRV"
+    },
+    {
+      "book": 18,
+      "chapter": 36,
+      "roman": "XXXVI",
+      "title": "DE EQVIS QVIBVS CVRRIMVS"
+    },
+    {
+      "book": 18,
+      "chapter": 37,
+      "roman": "XXXVII",
+      "title": "DE SEPTEM SPATIIS"
+    },
+    {
+      "book": 18,
+      "chapter": 38,
+      "roman": "XXXVIII",
+      "title": "DE EQVITIBVS"
+    },
+    {
+      "book": 18,
+      "chapter": 39,
+      "roman": "XXXIX",
+      "title": "DE DESVLTORIBVS"
+    },
+    {
+      "book": 18,
+      "chapter": 40,
+      "roman": "XL",
+      "title": "DE PEDITIBVS"
+    },
+    {
+      "book": 18,
+      "chapter": 41,
+      "roman": "XLI",
+      "title": "DE COLORIBVS EQVORVM"
+    },
+    {
+      "book": 18,
+      "chapter": 42,
+      "roman": "XLII",
+      "title": "DE THEATRO"
+    },
+    {
+      "book": 18,
+      "chapter": 43,
+      "roman": "XLIII",
+      "title": "DE SCENA"
+    },
+    {
+      "book": 18,
+      "chapter": 44,
+      "roman": "XLIV",
+      "title": "DE ORCHESTRA"
+    },
+    {
+      "book": 18,
+      "chapter": 45,
+      "roman": "XLV",
+      "title": "DE TRAGOEDIS"
+    },
+    {
+      "book": 18,
+      "chapter": 46,
+      "roman": "XLVI",
+      "title": "DE COMOEDIS"
+    },
+    {
+      "book": 18,
+      "chapter": 47,
+      "roman": "XLVII",
+      "title": "DE THYMELICIS"
+    },
+    {
+      "book": 18,
+      "chapter": 48,
+      "roman": "XLVIII",
+      "title": "DE HISTRIONIBVS"
+    },
+    {
+      "book": 18,
+      "chapter": 49,
+      "roman": "XLIX",
+      "title": "DE MIMIS"
+    },
+    {
+      "book": 18,
+      "chapter": 50,
+      "roman": "L",
+      "title": "DE SALTATORIBVS"
+    },
+    {
+      "book": 18,
+      "chapter": 51,
+      "roman": "LI",
+      "title": "QVID QVO PATRONO AGATVR"
+    },
+    {
+      "book": 18,
+      "chapter": 52,
+      "roman": "LII",
+      "title": "DE AMPHITHEATRO"
+    },
+    {
+      "book": 18,
+      "chapter": 53,
+      "roman": "LIII",
+      "title": "DE LVDO EQVESTRI"
+    },
+    {
+      "book": 18,
+      "chapter": 54,
+      "roman": "LIV",
+      "title": "DE RETIARIIS"
+    },
+    {
+      "book": 18,
+      "chapter": 55,
+      "roman": "LV",
+      "title": "DE SECVTORIBVS"
+    },
+    {
+      "book": 18,
+      "chapter": 56,
+      "roman": "LVI",
+      "title": "DE LAQVEARIIS"
+    },
+    {
+      "book": 18,
+      "chapter": 57,
+      "roman": "LVII",
+      "title": "DE VELITIBVS"
+    },
+    {
+      "book": 18,
+      "chapter": 58,
+      "roman": "LVIII",
+      "title": "DE FERALI CERTAMINE"
+    },
+    {
+      "book": 18,
+      "chapter": 59,
+      "roman": "LIX",
+      "title": "DE HORVM EXERCITATIONE LVDORVM"
+    },
+    {
+      "book": 18,
+      "chapter": 60,
+      "roman": "LX",
+      "title": "DE TABVLA"
+    },
+    {
+      "book": 18,
+      "chapter": 61,
+      "roman": "LXI",
+      "title": "DE PYRG1S"
+    },
+    {
+      "book": 18,
+      "chapter": 62,
+      "roman": "LXII",
+      "title": "DE CALCVLIS"
+    },
+    {
+      "book": 18,
+      "chapter": 63,
+      "roman": "LXIII",
+      "title": "DE TESSERIS"
+    },
+    {
+      "book": 18,
+      "chapter": 64,
+      "roman": "LXIV",
+      "title": "DE FIGVRIS ALEAE"
+    },
+    {
+      "book": 18,
+      "chapter": 65,
+      "roman": "LXV",
+      "title": "DE VOCABVLIS TESSERARVM"
+    },
+    {
+      "book": 18,
+      "chapter": 66,
+      "roman": "LXVI",
+      "title": "DE IACTV TESSERARVM"
+    },
+    {
+      "book": 18,
+      "chapter": 67,
+      "roman": "LXVII",
+      "title": "DE CALCVLORVM MOTV"
+    },
+    {
+      "book": 18,
+      "chapter": 68,
+      "roman": "LXVIII",
+      "title": "DE INTERDICTIONE ALEAE"
+    },
+    {
+      "book": 18,
+      "chapter": 69,
+      "roman": "LXIX",
+      "title": "DE PILA"
+    }
+  ],
+  "19": [
+    {
+      "book": 19,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE NAVIBVS"
+    },
+    {
+      "book": 19,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE PARTIBVS NAVIVM ET ARMAMENTIS"
+    },
+    {
+      "book": 19,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE VELIS"
+    },
+    {
+      "book": 19,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE FVNIBVS"
+    },
+    {
+      "book": 19,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE RETIBVS"
+    },
+    {
+      "book": 19,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE FABRORVM FORNACE"
+    },
+    {
+      "book": 19,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE INSTRVMENTIS FABRORVM"
+    },
+    {
+      "book": 19,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE FABRICIS PARIETVM"
+    },
+    {
+      "book": 19,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE DISPOSITIONE"
+    },
+    {
+      "book": 19,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE CONSTRVCTIONE"
+    },
+    {
+      "book": 19,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE VENUSTATE"
+    },
+    {
+      "book": 19,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE LAQVEARIIS"
+    },
+    {
+      "book": 19,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE CRVSTIS"
+    },
+    {
+      "book": 19,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE LITHOSTROTIS"
+    },
+    {
+      "book": 19,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE PLASTIS"
+    },
+    {
+      "book": 19,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE PICTVRA"
+    },
+    {
+      "book": 19,
+      "chapter": 17,
+      "roman": "XVII",
+      "title": "DE COLORIBVS"
+    },
+    {
+      "book": 19,
+      "chapter": 18,
+      "roman": "XVIII",
+      "title": "DE INSTRVMENTIS AEDIFICIORVM"
+    },
+    {
+      "book": 19,
+      "chapter": 19,
+      "roman": "XIX",
+      "title": "DE LIGNARIIS"
+    },
+    {
+      "book": 19,
+      "chapter": 20,
+      "roman": "XX",
+      "title": "DE INVENTIONE LANIFICII"
+    },
+    {
+      "book": 19,
+      "chapter": 21,
+      "roman": "XXI",
+      "title": "DE VESTE SACERDOTALI IN LEGE"
+    },
+    {
+      "book": 19,
+      "chapter": 22,
+      "roman": "XXII",
+      "title": "DE DIVERSITATE ET NOMINIBVS VESTIMENTORVM"
+    },
+    {
+      "book": 19,
+      "chapter": 23,
+      "roman": "XXIII",
+      "title": "DE PROPRIO QVARVNDAM GENTIVM HABITV"
+    },
+    {
+      "book": 19,
+      "chapter": 24,
+      "roman": "XXIV",
+      "title": "DE PALLIIS VIRORVM"
+    },
+    {
+      "book": 19,
+      "chapter": 25,
+      "roman": "XXV",
+      "title": "DE PALLIIS FEMINARVM"
+    },
+    {
+      "book": 19,
+      "chapter": 26,
+      "roman": "XXVI",
+      "title": "DE STRATV ET RELIQVIS VESTIBVS QVAE IN VSV HABENTVR"
+    },
+    {
+      "book": 19,
+      "chapter": 27,
+      "roman": "XXVII",
+      "title": "DE LANIS"
+    },
+    {
+      "book": 19,
+      "chapter": 28,
+      "roman": "XXVIII",
+      "title": "DE COLORIBVS VESTIVM"
+    },
+    {
+      "book": 19,
+      "chapter": 29,
+      "roman": "XXIX",
+      "title": "DE INSTRVMENTIS VESTIVM"
+    },
+    {
+      "book": 19,
+      "chapter": 30,
+      "roman": "XXX",
+      "title": "DE ORNAMENTIS"
+    },
+    {
+      "book": 19,
+      "chapter": 31,
+      "roman": "XXXI",
+      "title": "DE ORNAMENTIS CAPITIS FEMINARVM"
+    },
+    {
+      "book": 19,
+      "chapter": 32,
+      "roman": "XXXII",
+      "title": "DE ANVLIS"
+    },
+    {
+      "book": 19,
+      "chapter": 33,
+      "roman": "XXXIII",
+      "title": "DE CINGVLIS"
+    },
+    {
+      "book": 19,
+      "chapter": 34,
+      "roman": "XXXIV",
+      "title": "DE CALCIAMENTIS"
+    }
+  ],
+  "20": [
+    {
+      "book": 20,
+      "chapter": 1,
+      "roman": "I",
+      "title": "DE MENSIS"
+    },
+    {
+      "book": 20,
+      "chapter": 2,
+      "roman": "II",
+      "title": "DE ESCIS"
+    },
+    {
+      "book": 20,
+      "chapter": 3,
+      "roman": "III",
+      "title": "DE POTV"
+    },
+    {
+      "book": 20,
+      "chapter": 4,
+      "roman": "IV",
+      "title": "DE VASIS ESCARIIS"
+    },
+    {
+      "book": 20,
+      "chapter": 5,
+      "roman": "V",
+      "title": "DE VASIS POTATORIIS"
+    },
+    {
+      "book": 20,
+      "chapter": 6,
+      "roman": "VI",
+      "title": "DE VASIS VINARIIS ET AQVARIIS"
+    },
+    {
+      "book": 20,
+      "chapter": 7,
+      "roman": "VII",
+      "title": "DE VASIS OLEARIIS"
+    },
+    {
+      "book": 20,
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "DE VASIS COQVINARIIS"
+    },
+    {
+      "book": 20,
+      "chapter": 9,
+      "roman": "IX",
+      "title": "DE VASIS REPOSITORIIS"
+    },
+    {
+      "book": 20,
+      "chapter": 10,
+      "roman": "X",
+      "title": "DE VASIS LVMINARIORVM"
+    },
+    {
+      "book": 20,
+      "chapter": 11,
+      "roman": "XI",
+      "title": "DE LECTICIS ET SELLIS"
+    },
+    {
+      "book": 20,
+      "chapter": 12,
+      "roman": "XII",
+      "title": "DE VEHICVLIS"
+    },
+    {
+      "book": 20,
+      "chapter": 13,
+      "roman": "XIII",
+      "title": "DE RELIQVIS QVAE IN VSV HABENTVR"
+    },
+    {
+      "book": 20,
+      "chapter": 14,
+      "roman": "XIV",
+      "title": "DE INSTRVMENTIS RVSTICIS"
+    },
+    {
+      "book": 20,
+      "chapter": 15,
+      "roman": "XV",
+      "title": "DE INSTRVMENTIS HORTORVM"
+    },
+    {
+      "book": 20,
+      "chapter": 16,
+      "roman": "XVI",
+      "title": "DE INSTRVMENTIS EQVORVM"
+    }
+  ]
+}

@@ -1,5 +1,16 @@
 # Translation workflow
 
+## Current scope: an abridgment
+
+The user chose a reader-interest selection on 2026-11-01. The twenty-book
+manifest below remains a source inventory, not a translation quota. The pilot
+selection is tracked in pilot/source.json and pilot/translation.json, with
+its own eleven-reference alignment check. Translate selected sections intact;
+mark omissions between selections and label any actual source fragments.
+See editorial/SELECTION.md and editorial/SUBAGENTS.md for selection and bounded
+low-reasoning tasks. The original full-book acceptance gate remains available
+but is not the measure of completion for the abridgment.
+
 ## Text and units
 
 Use Lindsay (1911) as the declared base edition. Preserve book, chapter, and

@@ -13,3 +13,4 @@ latin/raw/
 *.tmp
 Thumbs.db
 .DS_Store
+tmp/

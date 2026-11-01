@@ -4,7 +4,7 @@
   "books": [
     {
       "book": 1,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-01.jsonl",
       "translation": "translation/book-01.jsonl",
       "expected_sections": null,
@@ -13,7 +13,7 @@
     },
     {
       "book": 2,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-02.jsonl",
       "translation": "translation/book-02.jsonl",
       "expected_sections": null,
@@ -22,7 +22,7 @@
     },
     {
       "book": 3,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-03.jsonl",
       "translation": "translation/book-03.jsonl",
       "expected_sections": null,
@@ -31,7 +31,7 @@
     },
     {
       "book": 4,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-04.jsonl",
       "translation": "translation/book-04.jsonl",
       "expected_sections": null,
@@ -40,7 +40,7 @@
     },
     {
       "book": 5,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-05.jsonl",
       "translation": "translation/book-05.jsonl",
       "expected_sections": null,
@@ -49,7 +49,7 @@
     },
     {
       "book": 6,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-06.jsonl",
       "translation": "translation/book-06.jsonl",
       "expected_sections": null,
@@ -58,7 +58,7 @@
     },
     {
       "book": 7,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-07.jsonl",
       "translation": "translation/book-07.jsonl",
       "expected_sections": null,
@@ -67,7 +67,7 @@
     },
     {
       "book": 8,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-08.jsonl",
       "translation": "translation/book-08.jsonl",
       "expected_sections": null,
@@ -76,7 +76,7 @@
     },
     {
       "book": 9,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-09.jsonl",
       "translation": "translation/book-09.jsonl",
       "expected_sections": null,
@@ -85,7 +85,7 @@
     },
     {
       "book": 10,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-10.jsonl",
       "translation": "translation/book-10.jsonl",
       "expected_sections": null,
@@ -94,7 +94,7 @@
     },
     {
       "book": 11,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-11.jsonl",
       "translation": "translation/book-11.jsonl",
       "expected_sections": null,
@@ -103,7 +103,7 @@
     },
     {
       "book": 12,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-12.jsonl",
       "translation": "translation/book-12.jsonl",
       "expected_sections": null,
@@ -112,7 +112,7 @@
     },
     {
       "book": 13,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-13.jsonl",
       "translation": "translation/book-13.jsonl",
       "expected_sections": null,
@@ -121,7 +121,7 @@
     },
     {
       "book": 14,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-14.jsonl",
       "translation": "translation/book-14.jsonl",
       "expected_sections": null,
@@ -130,7 +130,7 @@
     },
     {
       "book": 15,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-15.jsonl",
       "translation": "translation/book-15.jsonl",
       "expected_sections": null,
@@ -139,7 +139,7 @@
     },
     {
       "book": 16,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-16.jsonl",
       "translation": "translation/book-16.jsonl",
       "expected_sections": null,
@@ -148,7 +148,7 @@
     },
     {
       "book": 17,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-17.jsonl",
       "translation": "translation/book-17.jsonl",
       "expected_sections": null,
@@ -157,7 +157,7 @@
     },
     {
       "book": 18,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-18.jsonl",
       "translation": "translation/book-18.jsonl",
       "expected_sections": null,
@@ -166,7 +166,7 @@
     },
     {
       "book": 19,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-19.jsonl",
       "translation": "translation/book-19.jsonl",
       "expected_sections": null,
@@ -175,7 +175,7 @@
     },
     {
       "book": 20,
-      "status": "not-started",
+      "status": "in-progress",
       "latin": "latin/book-20.jsonl",
       "translation": "translation/book-20.jsonl",
       "expected_sections": null,

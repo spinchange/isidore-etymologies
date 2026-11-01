@@ -2,10 +2,14 @@
 
 ## Confirmed by the editor
 
-- New translation based on Lindsay's 1911 Latin edition.
+- Selected/abridged translation based on Lindsay's 1911 Latin edition.
 - Free digital edition and a print artifact sold via Lulu.
 - Public-domain original content; implement through CC0, including original notes.
 - GitHub repository for sources, work, reproducible tools, and releases.
+- Prefer complete, self-contained passages. Include an interesting fragment
+  when justified, with gaps explicit and no speculative completion.
+- Use bounded low-reasoning subagents with hashed inputs and deterministic
+  validation; retain lead editorial review and records.
 
 ## Open decisions
 
@@ -22,7 +26,7 @@
 
 1. Source acquisition, rights ledger, and complete section inventory.
 2. Short translated and reviewed pilot; register and note design agreed.
-3. Complete book-by-book translation with recorded review decisions.
+3. Translate the chosen selections with recorded review decisions and omissions.
 4. Complete terminology, cross-references, introduction, and indexes.
 5. Accessible website, aligned data, EPUB, and downloadable reading PDF.
 6. Print layout, final pagination, Lulu-specific cover template, and proof.

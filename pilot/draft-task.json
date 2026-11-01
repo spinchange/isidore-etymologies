@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "status": "draft",
+  "configured_model": "gpt-6-luna",
+  "reasoning_effort": "low",
+  "source_file": "pilot/source.json",
+  "source_sha256": "718cfed18f1945dfc7dfa2276f40abf7b15558f3e8b9bbacbd490e6089534481",
+  "assigned_refs": [
+    "1.29.1",
+    "1.29.2",
+    "1.29.3",
+    "1.29.4",
+    "1.29.5",
+    "1.3.1",
+    "1.3.2",
+    "1.3.3",
+    "12.3.9",
+    "12.8.1",
+    "12.8.2"
+  ],
+  "prompt": "Draft ONLY pilot/draft.json and pilot/draft-task.json in C:\\Users\\executor\\isidore-etymologies. User wants abridged edition for modern readers; retain Latin in etymologies/sound wordplay. Read AGENTS.md, translation/CONVENTIONS.md, editorial/SELECTION.md, pilot/source.json. Fixed task: translate exactly 11 source sections given, no others, one English paragraph per section, preserve every clause/list/example. Output draft.json schema {schema_version:1,status:'draft',sections:[{ref,text,notes:[strings],latin_terms:[exact source Latin forms]}]}. Put Latin forms visibly in parentheses where explanation depends on Latin, e.g. 'river (flumen)' and 'flowing (fluendo)'; do not pretend an English derivation. Greek σύμβολον can use symbolon with gloss but retain exact Greek in latin_terms. Clear prose, no metrical/poetic register. Preserve bracketed source content in English, perhaps move bracket explanation into notes; never silently omit. Notes modest, reference-specific, explain wordplay and source brackets; no invented modern research, no consultation of modern translations, no biological corrections beyond labeling Isidore's report. Translate explicit servi as slaves not servants; reges bees as kings not queens. Flag uncertainties in notes, do not decide validity of Greek etymologies or factual claims. source content includes 1.29.1-5,1.3.1-3,12.3.9,12.8.1-2. Task record: configured model gpt-6-luna low, source SHA256, exact assigned refs, prompt (save whole this brief in task record), prompt sha256, date UTC actual tool, attempt1, no retries, draft output SHA256. Check refs exact and Latin terms actually present using deterministic script. Do not modify any other files or commit. Lead will collate/review, status must remain draft. No network.",
+  "prompt_sha256": "e3ff9e41b367a79148d5c07af93dff721c0434eb31c9b7a75bfd7b48d9cecc90",
+  "date_utc": "2026-11-01 06:35:13 UTC",
+  "attempt": 1,
+  "retries": 0,
+  "draft_file": "pilot/draft.json",
+  "draft_sha256": "4835251c93c6380fa2548d998d500c8f633dcbab8956d3d1190a0f1f157906e8",
+  "prompt_file": "prompts/pilot-draft.txt",
+  "metadata_note": "Lead normalized the record to the exact dispatched brief; input and output files are unchanged."
+}

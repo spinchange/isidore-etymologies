@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "base_edition": "Lindsay (Oxford, 1911)",
+  "status": "pilot Latin collated against printed pages; full corpus not collated",
+  "source_hashes": {
+    "latin\\book-01.jsonl": "6decb9fadb6ceffafa1cfc94f3541fcf11f6cca9f3354a1a04e8246f7f4d8e6c",
+    "latin\\book-12.jsonl": "0569aa0e0e90ee2f92cc5996c57e1ab62db049c562c4aa95ab7594fb44afa20b"
+  },
+  "selections": [
+    {
+      "id": "etymology",
+      "title": "What words reveal",
+      "refs": [
+        "1.29.1",
+        "1.29.2",
+        "1.29.3",
+        "1.29.4",
+        "1.29.5"
+      ],
+      "volume": "I",
+      "pdf_pages": [
+        71,
+        72
+      ],
+      "scope": "Complete chapter I.29",
+      "sections": [
+        {
+          "ref": "1.29.1",
+          "latin": "Etymologia est origo vocabulorum, cum vis verbi vel nominis per interpretationem colligitur. Hanc Aristoteles σύμβολον, Cicero adnotationem nominavit, quia nomina et verba rerum nota facit exemplo posito; utputa \"flumen\" quia fluendo crevit, a fluendo dictum."
+        },
+        {
+          "ref": "1.29.2",
+          "latin": "Cuius cognitio saepe usum necessarium habet in interpretatione sua. Nam dum videris unde ortum est nomen, citius vim eius intellegis. Omnis enim rei inspectio etymologia cognita planior est. Non autem omnia nomina a veteribus secundum naturam inposita sunt, sed quaedam et secundum placitum, sicut et nos servis et possessionibus interdum secundum quod placet nostrae voluntati nomina damus."
+        },
+        {
+          "ref": "1.29.3",
+          "latin": "Hinc est quod omnium nominum etymologiae non reperiuntur, quia quaedam non secundum qualitatem, qua genita sunt, sed iuxta arbitrium humanae voluntatis vocabula acceperunt. Sunt autem etymologiae nominum aut ex causa datae, ut 'reges' a [regendo et] recte agendo, aut ex origine, ut \"homo\" quia sit ex humo, aut ex contrariis ut a lavando \"lutum\" dum lutum non sit mundum, et \"lucus\" quia umbra opacus parum luceat."
+        },
+        {
+          "ref": "1.29.4",
+          "latin": "Quaedam etiam facta sunt ex nominum derivatione, ut a prudentia 'prudens'; quaedam etiam ex vocibus, ut a garrulitate 'garrulus'; quaedam ex Graeca etymologia orta et declinata sunt in Latinum, ut \"silva\" \"domus\""
+        },
+        {
+          "ref": "1.29.5",
+          "latin": "Alia quoque ex nominibus locorum, urbium, [vel] fluminum traxerunt vocabula. Multa etiam ex diversarum gentium sermone vocantur. Vnde et origo eorum vix cernitur. Sunt enim pleraque barbara nomina et incognita Latinis et Graecis."
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "title": "Writing against forgetting",
+      "refs": [
+        "1.3.1",
+        "1.3.2",
+        "1.3.3"
+      ],
+      "volume": "I",
+      "pdf_pages": [
+        42
+      ],
+      "scope": "Three complete numbered sections, I.3.1-3; the remainder of chapter I.3 is not included",
+      "sections": [
+        {
+          "ref": "1.3.1",
+          "latin": "Primordia grammaticae artis litterae communes existunt, quas librarii et calculatores sequuntur. Quarum disciplina velut quaedam grammaticae artis infantia est; unde et eam Varro litterationem vocat. Litterae autem sunt indices rerum, signa verborum, quibus tanta vis est, ut nobis dicta absentium sine voce loquantur. [Verba enim per oculos non per aures introducunt.]"
+        },
+        {
+          "ref": "1.3.2",
+          "latin": "Usus litterarum repertus propter memoriam rerum. Nam ne oblivione fugiant, litteris alligantur. In tanta enim rerum varietate nec disci audiendo poterant omnia, nec memoria contineri."
+        },
+        {
+          "ref": "1.3.3",
+          "latin": "Litterae autem dictae quasi legiterae, quod iter legentibus praestent, vel quod in legendo iterentur."
+        }
+      ]
+    },
+    {
+      "id": "ants",
+      "title": "Ants: crumbs and gold",
+      "refs": [
+        "12.3.9"
+      ],
+      "volume": "II",
+      "pdf_pages": [
+        64
+      ],
+      "scope": "One complete numbered section, XII.3.9",
+      "sections": [
+        {
+          "ref": "12.3.9",
+          "latin": "Formica dicta, ab eo quod ferat micas farris. Cuius sollertia multa; providet enim in futurum, et praeparat aestate quod hieme comedat; in messe autem eligit triticum, hordeum non tangit; dum pluit ei super frumentum, totum eicit. Dicuntur in Aethiopia esse formicae ad formam canis quae arenas aureas pedibus eruunt, quas custodiunt ne quis auferat, captantesque ad necem persequuntur."
+        }
+      ]
+    },
+    {
+      "id": "bees",
+      "title": "Bees: a city in wax",
+      "refs": [
+        "12.8.1",
+        "12.8.2"
+      ],
+      "volume": "II",
+      "pdf_pages": [
+        95
+      ],
+      "scope": "Two complete numbered sections, XII.8.1-2; the remainder of chapter XII.8 is not included",
+      "sections": [
+        {
+          "ref": "12.8.1",
+          "latin": "Apes dictae, vel quod se pedibus invicem alligent, vel pro eo quod sine pedibus nascuntur. Nam postea et pedes et pinnas accipiunt. Haec sollertes in generandi mellis officio adsignatas incolunt sedes, domicilia inenarrabili arte conponunt, ex variis floribus favum condunt, textisque ceris innumera prole castra replent, exercitum et reges habent, proelia movent, fumum fugiunt, tumultu exasperantur."
+        },
+        {
+          "ref": "12.8.2",
+          "latin": "Has plerique experti sunt de boum cadaveribus nasci. Nam pro his creandis vitulorum occisorum carnes verberantur, ut [ex] putrefacto cruore vermes creentur, qui postea efficiuntur apes. Proprie tamen apes vocantur ortae de bobus, sicuti scabrones de equis, fuci de mulis, vespae de asinis."
+        }
+      ]
+    }
+  ]
+}

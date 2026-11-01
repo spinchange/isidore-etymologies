@@ -40,5 +40,6 @@ formula or claim generic settings certify this edition.
 6. Use Lulu's validation/preview and order a physical proof when authorized.
 7. Inspect the proof, correct defects, and only then approve a sale edition.
 
-The scaffold provides no PDF generator or automatic Lulu upload. No payment,
-proof order, ISBN purchase, or publication has been initiated.
+`tools/build_pilot.py` now produces a short 6x9 design specimen in output/pdf/.
+It is not the production interior builder. There is no automatic Lulu upload;
+no payment, proof order, ISBN purchase, or sale publication has been initiated.

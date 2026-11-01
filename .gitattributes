@@ -5,3 +5,8 @@
 *.jsonl text eol=lf
 *.yml text eol=lf
 LICENSE text eol=lf
+*.txt text eol=lf
+# Preserve the exact bytes hashed when these subagent tasks were dispatched.
+pilot/source.json -text whitespace=cr-at-eol
+pilot/draft.json -text whitespace=cr-at-eol
+pilot/draft-audit.json -text whitespace=cr-at-eol

@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "status": "draft",
+  "sections": [
+    {
+      "ref": "1.29.1",
+      "text": "Etymology is the origin of words, by which the force of a word or name is gathered through interpretation. Aristotle called it symbolon (σύμβολον, a sign); Cicero called it an annotation, because it makes things known through names and words by setting out an example. For instance, flumen (river) is said to be named from fluendo (flowing), because it grew by flowing.",
+      "notes": [
+        "Isidore presents flumen/fluendo as a word-origin example; the connection is part of his explanation."
+      ],
+      "latin_terms": [
+        "σύμβολον",
+        "flumen",
+        "fluendo"
+      ]
+    },
+    {
+      "ref": "1.29.2",
+      "text": "Knowledge of this often has a necessary use in interpretation. For when you see where a name comes from, you understand its force more quickly. Once etymology is known, the examination of any subject is clearer. But the ancients did not give all names according to nature: some were given by choice, just as we too sometimes give names to slaves and possessions according to what pleases our own will.",
+      "notes": [],
+      "latin_terms": []
+    },
+    {
+      "ref": "1.29.3",
+      "text": "That is why etymologies are not found for every name: some things received their names not according to the quality in which they came into being, but according to the judgment of human will. Etymologies of names are given either from a cause, as reges (kings) from regendo et recte agendo (ruling and acting rightly); or from an origin, as homo (human being), because it is from humo (earth); or from opposites, as lutum (mud) from lavando (washing), although mud is not clean, and lucus (grove), because, dense with shade, it gives little light.",
+      "notes": [
+        "The bracketed Latin regendo et is retained in the wordplay; Isidore's reading links reges to ruling and acting rightly. The contrast in lavando/lutum and the explanation of lucus are Isidore's proposed word origins."
+      ],
+      "latin_terms": [
+        "reges",
+        "regendo et",
+        "recte agendo",
+        "homo",
+        "humo",
+        "lavando",
+        "lutum",
+        "lucus"
+      ]
+    },
+    {
+      "ref": "1.29.4",
+      "text": "Some names have also been formed by derivation from other names, as prudens (wise) from prudentia (wisdom); some from sounds, as garrulus (talkative) from garrulitate (chattering); and some have arisen from a Greek etymology and been adapted into Latin, such as silva (woodland) and domus (house).",
+      "notes": [],
+      "latin_terms": [
+        "prudentia",
+        "prudens",
+        "garrulitate",
+        "garrulus",
+        "silva",
+        "domus"
+      ]
+    },
+    {
+      "ref": "1.29.5",
+      "text": "Other names, too, have drawn their words from the names of places, cities, or rivers. Many are also called by words from the speech of different peoples. Hence their origin is scarcely discernible. For most are foreign names, unknown to Greeks and Romans.",
+      "notes": [
+        "The source's bracketed vel (‘or’) is included in the translated list."
+      ],
+      "latin_terms": []
+    },
+    {
+      "ref": "1.3.1",
+      "text": "The first elements of the art of grammar are the common letters, which scribes and accountants use. The study of these is, as it were, a kind of infancy of the art of grammar; hence Varro calls it litteratio (letter learning). Letters are indicators of things and signs of words, and they have such power that the statements of people who are absent speak to us without a voice. [For they bring words in through the eyes, not the ears.]",
+      "notes": [
+        "The square-bracketed sentence is present in the source and has been translated in place."
+      ],
+      "latin_terms": [
+        "litteratio"
+      ]
+    },
+    {
+      "ref": "1.3.2",
+      "text": "The use of letters was discovered for the sake of remembering things. So that they do not escape through forgetfulness, they are bound fast in letters. For amid such a variety of things, not everything could be learned by hearing or held in memory.",
+      "notes": [],
+      "latin_terms": []
+    },
+    {
+      "ref": "1.3.3",
+      "text": "Letters, however, are said to be almost legiterae (path-letters), because they provide a path for readers, or because they are repeated in reading.",
+      "notes": [
+        "Isidore offers two explanations through a play on legiterae and iter; ‘path-letters’ signals the proposed connection rather than an English derivation."
+      ],
+      "latin_terms": [
+        "legiterae",
+        "iter"
+      ]
+    },
+    {
+      "ref": "12.3.9",
+      "text": "The ant (Formica) is so called from carrying (ferat) crumbs of grain (micas farris). Its resourcefulness is great: it provides for the future and prepares in summer what it will eat in winter. At harvest it selects wheat and does not touch barley; when rain falls on its grain, it throws it all out. They say that in Ethiopia there are ants the size and shape of dogs, which dig up gold-bearing sand with their feet. They guard it so no one can take it, and they pursue those who try, attacking them to the death.",
+      "notes": [
+        "The opening follows Isidore's proposed connection between formica and carrying crumbs; ‘gold-bearing sand’ translates arenas aureas. The dog-sized gold-digging ants are reported by Isidore."
+      ],
+      "latin_terms": [
+        "Formica",
+        "ferat",
+        "micas farris"
+      ]
+    },
+    {
+      "ref": "12.8.1",
+      "text": "Bees (Apes) are so called either because they alligent (bind) one another together with their feet, or because they are born without feet. Later they acquire both feet and wings. These industrious creatures occupy assigned dwellings for the task of producing honey. They construct their homes with indescribable skill, make a honeycomb from various flowers, and fill their stronghold with countless offspring in woven wax. They have an army and kings (reges), wage battles, flee smoke, and are provoked by commotion.",
+      "notes": [
+        "Isidore gives two proposed explanations for apes; the statement that bees are born without feet is his report. Reges means ‘kings’ in the source."
+      ],
+      "latin_terms": [
+        "Apes",
+        "alligent",
+        "reges"
+      ]
+    },
+    {
+      "ref": "12.8.2",
+      "text": "Most people who have investigated the matter have found that bees are born from the corpses of oxen. To produce them, the flesh of slaughtered calves is beaten so that, from the putrefied blood, worms are generated, which later become bees. Strictly speaking, however, bees are called those born from oxen, just as hornets are from horses, drones from mules, and wasps from donkeys.",
+      "notes": [
+        "The bracketed ex (‘from’) is incorporated into the English phrase ‘from the putrefied blood.’ The account of bees and other insects arising from animal carcasses is Isidore's report."
+      ],
+      "latin_terms": []
+    }
+  ]
+}

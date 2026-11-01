@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "status": "proposal",
+  "checked_refs": [
+    "1.29.1", "1.29.2", "1.29.3", "1.29.4", "1.29.5",
+    "1.3.1", "1.3.2", "1.3.3", "12.3.9", "12.8.1", "12.8.2"
+  ],
+  "findings": [
+    {
+      "ref": "1.3.3",
+      "kind": "wordplay_pair_missing",
+      "latin_evidence": "quod iter legentibus praestent, vel quod in legendo iterentur",
+      "draft_evidence": "‘path-letters’ ... because they provide a path for readers, or because they are repeated in reading.",
+      "proposed_action": "Consider showing iter alongside legiterae in the English text or note so both Latin sides of the proposed wordplay are visible."
+    },
+    {
+      "ref": "12.3.9",
+      "kind": "unsupported_quantifier",
+      "latin_evidence": "formicae ad formam canis",
+      "draft_evidence": "ants the size and shape of dogs",
+      "proposed_action": "Remove ‘size’ or revise to ‘of dog form/shape’; the Latin says ad formam canis and does not explicitly say size."
+    },
+    {
+      "ref": "12.8.1",
+      "kind": "awkward_latin_verb_in_english",
+      "latin_evidence": "vel quod se pedibus invicem alligent",
+      "draft_evidence": "because they alligent (bind) one another together with their feet",
+      "proposed_action": "Use an English rendering such as ‘bind one another together with their feet’ and retain alligent as a Latin term only if needed for the wordplay note."
+    }
+  ]
+}

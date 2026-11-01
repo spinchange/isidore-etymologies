@@ -1,0 +1,26 @@
+[
+  {
+    "ref": "1.29.1",
+    "old": "SUMBOLON",
+    "new": "σύμβολον",
+    "reason": "Restore Greek from Lindsay volume I, PDF page 71; Latin Library substitutes capital Latin letters."
+  },
+  {
+    "ref": "1.29.3",
+    "old": "\"reges’",
+    "new": "'reges'",
+    "reason": "Normalize mismatched quotation marks to the printed quotation boundaries; I, PDF page 72."
+  },
+  {
+    "ref": "1.29.4",
+    "old": "\"prudens’",
+    "new": "'prudens'",
+    "reason": "Normalize mismatched quotation marks; I, PDF page 72."
+  },
+  {
+    "ref": "1.29.4",
+    "old": "\"garrulus’",
+    "new": "'garrulus'",
+    "reason": "Normalize mismatched quotation marks; I, PDF page 72."
+  }
+]

@@ -1,0 +1,342 @@
+{
+  "parser_version": "1.2.0",
+  "imported_at_utc": "2026-11-01T06:45:23.388419+00:00",
+  "imports": [
+    {
+      "book": 1,
+      "source": "latin/raw/latinlibrary-book-01.html",
+      "sha256": "e2d1b76fc30a78bbfb05800f276fa3cc4f03ab6bded5f0d1c3c95c8db2a13afc",
+      "encoding": "utf-16",
+      "output": "latin/book-01.jsonl",
+      "record_count": 369,
+      "chapter_count": 44,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae I\nISIDORI HISPALENSIS EPISCOPI ETYMOLOGIARUM SIVE ORIGINUM LIBER I"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 2,
+      "source": "latin/raw/latinlibrary-book-02.html",
+      "sha256": "f2cd2a6c7270303e8916ce154c27cd6df44ffe5655b89a962f6702f696e80fc6",
+      "encoding": "utf-16",
+      "output": "latin/book-02.jsonl",
+      "record_count": 247,
+      "chapter_count": 31,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae II\nISIDORI HISPALENSIS EPISCOPI ETYMOLOGIARUM SIVE ORIGINUM LIBER II"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 3,
+      "source": "latin/raw/latinlibrary-book-03.html",
+      "sha256": "a1b67c91ce31b6166c3123a6486fd622994804630a21452dd96ce22500245034",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-03.jsonl",
+      "record_count": 222,
+      "chapter_count": 71,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 2,
+          "samples": [
+            "Isidore: Etymologiae III",
+            "MATHEMATICA Latine dicitur doctrinalis scientia, quae abstractam considerat quantitatem. Abstracta enim quantitas est, quam intellectu a materia separantes vel ab aliis accidentibus, ut est par, inpar, vel ab aliis huiuscemodi in sola ratiocinatione tractamus. Cuius species sunt quattuor: id est Arithmetica, Musica, Geometria et Astronomia. Arithmetica est disciplina quantitatis numerabilis secundum se. Musica est disciplina quae de numeris loquitur, qui inveniuntur in sonis. Geometria est disciplina magnitudinis et formarum. Astronomia est disciplina quae cursus caelestium siderum atque figuras contemplatur omnes atque habitudines stellarum. Quas disciplinas deinceps paulo latius indicamus, ut earum causae conpetenter possint ostendi."
+          ]
+        }
+      ]
+    },
+    {
+      "book": 4,
+      "source": "latin/raw/latinlibrary-book-04.html",
+      "sha256": "6e26241b30dc92b979eeb489ceb79c3977fc778beac4a0e67a546e8ca6e699ad",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-04.jsonl",
+      "record_count": 134,
+      "chapter_count": 13,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae IV"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 6,
+      "source": "latin/raw/latinlibrary-book-06.html",
+      "sha256": "8519b3f462227c43dbd9d0b9d706b0a32a9365340ea0b9f15647a58988baa845",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-06.jsonl",
+      "record_count": 279,
+      "chapter_count": 19,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae VI"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 7,
+      "source": "latin/raw/latinlibrary-book-07.html",
+      "sha256": "44312348f815c0af0ed00ecb532cbe327d3dc6a50f32ef78726b3d8abe37b150",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-07.jsonl",
+      "record_count": 393,
+      "chapter_count": 14,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae VII"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 8,
+      "source": "latin/raw/latinlibrary-book-08.html",
+      "sha256": "96480a05bcaa0360188cf5970c0d02914ee2df2e65b62f9ea4d89288d0034439",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-08.jsonl",
+      "record_count": 288,
+      "chapter_count": 11,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae VIII"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 9,
+      "source": "latin/raw/latinlibrary-book-09.html",
+      "sha256": "8788222d782ebf17c88a3503bd35a4e96365a0a21ab3f7ec2c4be6ef41b9ab9f",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-09.jsonl",
+      "record_count": 355,
+      "chapter_count": 7,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae IX"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 12,
+      "source": "latin/raw/latinlibrary-book-12.html",
+      "sha256": "5c24059536ae2c591b9f77db8d06f8cb211e6dd6bb078a3b6c62e62115d26c00",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-12.jsonl",
+      "record_count": 339,
+      "chapter_count": 8,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae XII"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 13,
+      "source": "latin/raw/latinlibrary-book-13.html",
+      "sha256": "6afefe06dc12ebc10ebf55516dcb8015275aef2a7f48803755309c98c0174930",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-13.jsonl",
+      "record_count": 168,
+      "chapter_count": 22,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 2,
+          "samples": [
+            "Isidore: Etymologiae XIII",
+            "In hoc vero libello quasi in quadam brevi tabella quasdam caeli causas situsque terrarum et maris spatia adnotavimus, ut in modico lector ea percurrat, et conpendiosa brevitate etymologias eorum causasque cognoscat."
+          ]
+        }
+      ]
+    },
+    {
+      "book": 14,
+      "source": "latin/raw/latinlibrary-book-14.html",
+      "sha256": "0781d35e0b51cdc76332d1c3c5119eaa4f616eb8278e732cb7460d6f18df3530",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-14.jsonl",
+      "record_count": 209,
+      "chapter_count": 9,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae XIV"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 15,
+      "source": "latin/raw/latinlibrary-book-15.html",
+      "sha256": "523540212dae570a4b96ed57ccb12251b997cb352c763040725f42e02d609ede",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-15.jsonl",
+      "record_count": 255,
+      "chapter_count": 16,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae XV"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 16,
+      "source": "latin/raw/latinlibrary-book-16.html",
+      "sha256": "50a0b1fd7961a668269ed12dfca6f156dad60ca87f82f637bd7af4c7eb6b8e1c",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-16.jsonl",
+      "record_count": 294,
+      "chapter_count": 27,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae XVI"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 17,
+      "source": "latin/raw/latinlibrary-book-17.html",
+      "sha256": "9b0a1382bf693f418d6ebb83eff103a69b319ecf471ea6ab64f9032e092c6ac8",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-17.jsonl",
+      "record_count": 326,
+      "chapter_count": 11,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae XVII\nISIDORI HISPALENSIS EPISCOPI ETYMOLOGIARUM SIVE ORIGINUM LIBER XVII"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 18,
+      "source": "latin/raw/latinlibrary-book-18.html",
+      "sha256": "9e09e5cc881c89d7923e5f8be1bfb0514eeff80ca29d270eff526c3305aa0b3f",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-18.jsonl",
+      "record_count": 156,
+      "chapter_count": 69,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae XVIII\nISIDORI HISPALENSIS EPISCOPI ETYMOLOGIARUM SIVE ORIGINUM LIBER XVIII"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 19,
+      "source": "latin/raw/latinlibrary-book-19.html",
+      "sha256": "105e9c35a06c1d76ebbd08b75429fadc61a2029bbd3b0f984da3c55e3a26647c",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-19.jsonl",
+      "record_count": 310,
+      "chapter_count": 34,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae XIX\nISIDORI HISPALENSIS EPISCOPI ETYMOLOGIARUM SIVE ORIGINUM LIBER XIX"
+          ]
+        }
+      ]
+    },
+    {
+      "book": 20,
+      "source": "latin/raw/latinlibrary-book-20.html",
+      "sha256": "8c7bd0037df1da29a8fb2867fbcf58a5fc2f933cf8d4a078837661c1bc64653e",
+      "encoding": "cp1252-fallback",
+      "output": "latin/book-20.jsonl",
+      "record_count": 167,
+      "chapter_count": 16,
+      "warnings": [
+        {
+          "type": "unassigned-substantive-text",
+          "count": 1,
+          "samples": [
+            "Isidore: Etymologiae XX\nISIDORI HISPALENSIS EPISCOPI ETYMOLOGIARUM SIVE ORIGINUM LIBER XX"
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "book": 5,
+      "source": "latin/raw/latinlibrary-book-05.html",
+      "sha256": "f6bf3f6b2e2626bb282a18a780005ea0747ad173fbb3ca3a598af5ad8caf2454",
+      "error": "duplicate or out-of-order chapter heading XXIX",
+      "source_issue": "Source heading sequence has XXXVIII followed by XXIX; no Roman numeral correction inferred.",
+      "stale_output": null
+    },
+    {
+      "book": 10,
+      "source": "latin/raw/latinlibrary-book-10.html",
+      "sha256": "c66db83b19a3746bb4cbf0e58aabc8a2e4b3f53ebe88f2cc8f37f36c03bf2b98",
+      "error": "numbered section before Roman chapter heading: [1] ORIGO quorundam nominum, id est unde veniant, non pene omnibus patet. Proinde quaedam noscendi g",
+      "source_issue": "Source begins numbered material without a Roman chapter heading; chapter numbering is unsupported here.",
+      "stale_output": null
+    },
+    {
+      "book": 11,
+      "source": "latin/raw/latinlibrary-book-11.html",
+      "sha256": "b21d55f16a4d78ef1f77baedadc0009e0ac60c410a26b5ceeaccca29b8e7be6c",
+      "error": "duplicate or out-of-order reference 11.2.2",
+      "source_issue": "Raw source uses [l] (lowercase L) for a numbered section after chapter II; kept ambiguous, not normalized to [1].",
+      "stale_output": null
+    }
+  ],
+  "status_resets": [],
+  "note": "Extraction counts are not collation or coverage verification."
+}

@@ -1,0 +1,15 @@
+{
+  "built_at_utc": "2026-11-01T06:50:30.808222+00:00",
+  "output": "output/pdf/isidore-selected-pilot.pdf",
+  "sha256": "0ca6bc99d6f58a3fe88657eee1dab727e5a54555c6e4ad5e87bd876ef5126903",
+  "source_sha256": "718cfed18f1945dfc7dfa2276f40abf7b15558f3e8b9bbacbd490e6089534481",
+  "translation_sha256": "12144dc56755caada5e711ef05e7a64dc06efbb344b52e64b00e23c2cc7bbc7a",
+  "builder_sha256": "8f491fd19904acd91f3cc21e4ac5fe782b43933cc8bd0a6e3c510158232cbced",
+  "trim_inches": [
+    6,
+    9
+  ],
+  "body_pt": 11.3,
+  "leading_pt": 15,
+  "status": "design-proof; visual QA required; not a Lulu upload file"
+}

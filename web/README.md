@@ -1,7 +1,7 @@
 # Future free reading edition
 
 No site has been built or deployed. Follow the companion projects' static
-reading pattern once a pilot text exists: landing page, twenty book pages,
+reading pattern: landing page, thematic selections with original references,
 section permalinks, notes and backlinks, source explanation, full-text search,
 downloads, and a link to buy the physical edition through Lulu.
 

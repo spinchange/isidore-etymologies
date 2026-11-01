@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "status": "editorially-reviewed-pilot",
+  "license": "CC0-1.0 for original English and notes; source Latin public domain",
+  "source_file": "pilot/source.json",
+  "review_record": "audit/pilot-review.md",
+  "editorial_note": "A selected translation and page-design pilot, not a complete edition. Thematic headings are editorial. Whole numbered sections are retained; no words are silently cut inside a selected section.",
+  "sections": [
+    {
+      "ref": "1.29.1",
+      "text": "Etymology traces the origin of words, drawing out the meaning of a word or name through explanation. Aristotle called it symbolon (σύμβολον, “sign”); Cicero called it adnotatio (“annotation”), because, by giving an example, it makes the names and words for things clear. Take “river” (flumen): it is named from “flowing” (fluendo), because it grew by flowing.",
+      "notes": [],
+      "terms": [
+        {
+          "source_form": "σύμβολον",
+          "display_form": "σύμβολον"
+        },
+        {
+          "source_form": "adnotationem",
+          "display_form": "adnotatio"
+        },
+        {
+          "source_form": "flumen",
+          "display_form": "flumen"
+        },
+        {
+          "source_form": "fluendo",
+          "display_form": "fluendo"
+        }
+      ]
+    },
+    {
+      "ref": "1.29.2",
+      "text": "Knowing a word’s origin is often essential to explaining it. Once you see where a name came from, you grasp its meaning more quickly. Understanding the etymology makes the examination of any subject clearer. Yet the ancients did not give every name according to nature. Some were assigned simply by choice, just as we sometimes give slaves and possessions whatever names we please.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "1.29.3",
+      "text": "This is why etymologies cannot be found for every name: some things received their names not from the qualities with which they came into being, but from the choice of the human will. Explanations of names may come from a cause, as “kings” (reges) from “ruling” (regendo) and “acting rightly” (recte agendo); from an origin, as “human” (homo), because a human comes from earth (humo); or from opposites, as “mud” (lutum) from “washing” (lavando), although mud is not clean, and “grove” (lucus), because, dark with shade, it gives little light (parum luceat).",
+      "notes": [
+        "The explanations by “opposites” depend on the Latin words, not on the English “mud,” “washing,” “grove,” or “light.” Lindsay brackets regendo et in the Latin; it is included here. His critical brackets are not marks of cuts made for this abridgment."
+      ],
+      "terms": [
+        {
+          "source_form": "reges",
+          "display_form": "reges"
+        },
+        {
+          "source_form": "regendo",
+          "display_form": "regendo"
+        },
+        {
+          "source_form": "recte agendo",
+          "display_form": "recte agendo"
+        },
+        {
+          "source_form": "homo",
+          "display_form": "homo"
+        },
+        {
+          "source_form": "humo",
+          "display_form": "humo"
+        },
+        {
+          "source_form": "lutum",
+          "display_form": "lutum"
+        },
+        {
+          "source_form": "lavando",
+          "display_form": "lavando"
+        },
+        {
+          "source_form": "lucus",
+          "display_form": "lucus"
+        },
+        {
+          "source_form": "parum luceat",
+          "display_form": "parum luceat"
+        }
+      ]
+    },
+    {
+      "ref": "1.29.4",
+      "text": "Other names are formed by derivation from names, as “prudent” (prudens) from “prudence” (prudentia); others from sounds, as “talkative” (garrulus) from “chattering” (garrulitate). Others arise from Greek etymologies and are adapted into Latin, such as “woodland” (silva) and “house” (domus).",
+      "notes": [
+        "Isidore gives silva and domus as examples without supplying their Greek counterparts here."
+      ],
+      "terms": [
+        {
+          "source_form": "prudens",
+          "display_form": "prudens"
+        },
+        {
+          "source_form": "prudentia",
+          "display_form": "prudentia"
+        },
+        {
+          "source_form": "garrulus",
+          "display_form": "garrulus"
+        },
+        {
+          "source_form": "garrulitate",
+          "display_form": "garrulitate"
+        },
+        {
+          "source_form": "silva",
+          "display_form": "silva"
+        },
+        {
+          "source_form": "domus",
+          "display_form": "domus"
+        }
+      ]
+    },
+    {
+      "ref": "1.29.5",
+      "text": "Other words take their names from places, cities, or rivers. Many are drawn from the speech of different peoples, so their origin is hard to make out. Many are foreign names, unknown to Latin and Greek speakers.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "1.3.1",
+      "text": "The starting point of grammar is the ordinary alphabet used by scribes and accountants. Learning it is a kind of infancy in the study of grammar; Varro calls it litteratio, “learning letters.” Letters point to things and stand for words. Such is their power that they let the words of absent people speak to us without a voice. They bring words in through the eyes, not the ears.",
+      "notes": [
+        "Lindsay prints the final sentence in editorial brackets. It is included in this translation."
+      ],
+      "terms": [
+        {
+          "source_form": "litterationem",
+          "display_form": "litteratio"
+        }
+      ]
+    },
+    {
+      "ref": "1.3.2",
+      "text": "Writing was invented to preserve the memory of things. Things are bound in letters so they do not slip into forgetfulness. In such a variety of things, not everything could be learned by listening or held in memory.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "1.3.3",
+      "text": "Letters (litterae) are so called as though the word were legiterae: they give readers a path (iter), or they are repeated (iterentur) in reading.",
+      "notes": [
+        "The proposed explanation turns on the shape of the Latin word: Isidore hears the language of reading and of a path or repetition inside litterae. The Latin stays visible so that the English does not invent a different etymology."
+      ],
+      "terms": [
+        {
+          "source_form": "Litterae",
+          "display_form": "litterae"
+        },
+        {
+          "source_form": "legiterae",
+          "display_form": "legiterae"
+        },
+        {
+          "source_form": "iter",
+          "display_form": "iter"
+        },
+        {
+          "source_form": "iterentur",
+          "display_form": "iterentur"
+        }
+      ]
+    },
+    {
+      "ref": "12.3.9",
+      "text": "The ant (formica) takes its name because it carries crumbs of grain (ferat micas farris). It shows great ingenuity: it provides for the future and prepares in summer what it will eat in winter. At harvest it chooses wheat and does not touch barley; when rain falls on its grain, it throws it all out. They say that in Ethiopia there are ants resembling dogs, which dig up gold-bearing sand with their feet. They guard it so no one can take it, and hunt down and kill those who try to seize it.",
+      "notes": [
+        "The sentence about gold is introduced as a report - “They say” (dicuntur) - rather than the assertive description that precedes it."
+      ],
+      "terms": [
+        {
+          "source_form": "Formica",
+          "display_form": "formica"
+        },
+        {
+          "source_form": "ferat micas farris",
+          "display_form": "ferat micas farris"
+        }
+      ]
+    },
+    {
+      "ref": "12.8.1",
+      "text": "Bees (apes) get their name either because they bind (alligent) one another with their feet, or because they are born without feet (sine pedibus). Later they acquire feet and wings. Industrious in the work of making honey, they live in assigned places, build homes with indescribable skill, and make their comb from different flowers. In woven wax they fill their camps with countless young. They have an army and kings (reges), wage battles, flee smoke, and are angered by commotion.",
+      "notes": [
+        "The hive is a miniature military society: camps, an army, kings, and battles. The translation retains Isidore’s kings. His proposed explanations of apes are translated as he gives them, without supplying intermediate steps."
+      ],
+      "terms": [
+        {
+          "source_form": "Apes",
+          "display_form": "apes"
+        },
+        {
+          "source_form": "alligent",
+          "display_form": "alligent"
+        },
+        {
+          "source_form": "sine pedibus",
+          "display_form": "sine pedibus"
+        },
+        {
+          "source_form": "reges",
+          "display_form": "reges"
+        }
+      ]
+    },
+    {
+      "ref": "12.8.2",
+      "text": "Many have found by experience that bees are born from the carcasses of oxen. To produce them, the flesh of slaughtered calves is beaten, so that worms form from the rotting blood and later become bees. Strictly speaking, however, the name “bees” belongs to those born from oxen, just as hornets come from horses, drones from mules, and wasps from donkeys.",
+      "notes": [
+        "This is an account of spontaneous generation, and the appeal to “experience” belongs to Isidore’s text. Modern honey bees develop from eggs through larval and pupal stages to adults. Modern comparison: University of Florida/IFAS, IN1005."
+      ],
+      "terms": []
+    }
+  ]
+}

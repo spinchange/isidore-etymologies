@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "recorded_at_utc": "2026-11-01T06:35:53.726945+00:00",
+  "acquisition_date": "2026-11-01",
+  "method": "Original responses downloaded with PowerShell Invoke-WebRequest; this script can reproduce missing downloads via urllib.",
+  "missing": [],
+  "files": [
+    {
+      "path": "latin/raw/latinlibrary-book-01.html",
+      "url": "https://www.thelatinlibrary.com/isidore/1.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 195282,
+      "sha256": "e2d1b76fc30a78bbfb05800f276fa3cc4f03ab6bded5f0d1c3c95c8db2a13afc",
+      "local_file_mtime_utc": "2026-11-01T06:28:49.089534+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-02.html",
+      "url": "https://www.thelatinlibrary.com/isidore/2.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 141192,
+      "sha256": "f2cd2a6c7270303e8916ce154c27cd6df44ffe5655b89a962f6702f696e80fc6",
+      "local_file_mtime_utc": "2026-11-01T06:29:46.268022+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-03.html",
+      "url": "https://www.thelatinlibrary.com/isidore/3.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 61287,
+      "sha256": "a1b67c91ce31b6166c3123a6486fd622994804630a21452dd96ce22500245034",
+      "local_file_mtime_utc": "2026-11-01T06:29:46.653241+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-04.html",
+      "url": "https://www.thelatinlibrary.com/isidore/4.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 25788,
+      "sha256": "6e26241b30dc92b979eeb489ceb79c3977fc778beac4a0e67a546e8ca6e699ad",
+      "local_file_mtime_utc": "2026-11-01T06:29:47.204118+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-05.html",
+      "url": "https://www.thelatinlibrary.com/isidore/5.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 56427,
+      "sha256": "f6bf3f6b2e2626bb282a18a780005ea0747ad173fbb3ca3a598af5ad8caf2454",
+      "local_file_mtime_utc": "2026-11-01T06:29:47.441865+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-06.html",
+      "url": "https://www.thelatinlibrary.com/isidore/6.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 67335,
+      "sha256": "8519b3f462227c43dbd9d0b9d706b0a32a9365340ea0b9f15647a58988baa845",
+      "local_file_mtime_utc": "2026-11-01T06:29:47.676294+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-07.html",
+      "url": "https://www.thelatinlibrary.com/isidore/7.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 80402,
+      "sha256": "44312348f815c0af0ed00ecb532cbe327d3dc6a50f32ef78726b3d8abe37b150",
+      "local_file_mtime_utc": "2026-11-01T06:29:47.898612+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-08.html",
+      "url": "https://www.thelatinlibrary.com/isidore/8.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 65576,
+      "sha256": "96480a05bcaa0360188cf5970c0d02914ee2df2e65b62f9ea4d89288d0034439",
+      "local_file_mtime_utc": "2026-11-01T06:29:48.177208+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-09.html",
+      "url": "https://www.thelatinlibrary.com/isidore/9.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 73405,
+      "sha256": "8788222d782ebf17c88a3503bd35a4e96365a0a21ab3f7ec2c4be6ef41b9ab9f",
+      "local_file_mtime_utc": "2026-11-01T06:29:48.385129+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-10.html",
+      "url": "https://www.thelatinlibrary.com/isidore/10.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 56639,
+      "sha256": "c66db83b19a3746bb4cbf0e58aabc8a2e4b3f53ebe88f2cc8f37f36c03bf2b98",
+      "local_file_mtime_utc": "2026-11-01T06:29:48.615803+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-11.html",
+      "url": "https://www.thelatinlibrary.com/isidore/11.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 53817,
+      "sha256": "b21d55f16a4d78ef1f77baedadc0009e0ac60c410a26b5ceeaccca29b8e7be6c",
+      "local_file_mtime_utc": "2026-11-01T06:29:48.825713+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-12.html",
+      "url": "https://www.thelatinlibrary.com/isidore/12.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 83212,
+      "sha256": "5c24059536ae2c591b9f77db8d06f8cb211e6dd6bb078a3b6c62e62115d26c00",
+      "local_file_mtime_utc": "2026-11-01T06:29:49.202378+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-13.html",
+      "url": "https://www.thelatinlibrary.com/isidore/13.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 44902,
+      "sha256": "6afefe06dc12ebc10ebf55516dcb8015275aef2a7f48803755309c98c0174930",
+      "local_file_mtime_utc": "2026-11-01T06:29:49.515537+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-14.html",
+      "url": "https://www.thelatinlibrary.com/isidore/14.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 60941,
+      "sha256": "0781d35e0b51cdc76332d1c3c5119eaa4f616eb8278e732cb7460d6f18df3530",
+      "local_file_mtime_utc": "2026-11-01T06:29:49.728172+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-15.html",
+      "url": "https://www.thelatinlibrary.com/isidore/15.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 57322,
+      "sha256": "523540212dae570a4b96ed57ccb12251b997cb352c763040725f42e02d609ede",
+      "local_file_mtime_utc": "2026-11-01T06:29:49.952782+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-16.html",
+      "url": "https://www.thelatinlibrary.com/isidore/16.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 70214,
+      "sha256": "50a0b1fd7961a668269ed12dfca6f156dad60ca87f82f637bd7af4c7eb6b8e1c",
+      "local_file_mtime_utc": "2026-11-01T06:29:50.190377+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-17.html",
+      "url": "https://www.thelatinlibrary.com/isidore/17.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 71961,
+      "sha256": "9b0a1382bf693f418d6ebb83eff103a69b319ecf471ea6ab64f9032e092c6ac8",
+      "local_file_mtime_utc": "2026-11-01T06:29:50.416639+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-18.html",
+      "url": "https://www.thelatinlibrary.com/isidore/18.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 42807,
+      "sha256": "9e09e5cc881c89d7923e5f8be1bfb0514eeff80ca29d270eff526c3305aa0b3f",
+      "local_file_mtime_utc": "2026-11-01T06:29:50.663413+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-19.html",
+      "url": "https://www.thelatinlibrary.com/isidore/19.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 68107,
+      "sha256": "105e9c35a06c1d76ebbd08b75429fadc61a2029bbd3b0f984da3c55e3a26647c",
+      "local_file_mtime_utc": "2026-11-01T06:29:50.866518+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-book-20.html",
+      "url": "https://www.thelatinlibrary.com/isidore/20.shtml",
+      "role": "working Latin transcription; not collated",
+      "bytes": 36423,
+      "sha256": "8c7bd0037df1da29a8fb2867fbcf58a5fc2f933cf8d4a078837661c1bc64653e",
+      "local_file_mtime_utc": "2026-11-01T06:29:51.072694+00:00"
+    },
+    {
+      "path": "latin/raw/lindsay-1911-volume-I.pdf",
+      "url": "https://archive.org/download/isidori01isiduoft/isidori01isiduoft.pdf",
+      "role": "Lindsay 1911 volume I, books I-X; title and pilot pages inspected",
+      "bytes": 56611475,
+      "sha256": "af1a52b27b3b54782a9bce98f39cbc5d39b76301c801dc7f62531d58af017a57",
+      "local_file_mtime_utc": "2026-11-01T06:30:06.400874+00:00"
+    },
+    {
+      "path": "latin/raw/lindsay-1911-volume-II.pdf",
+      "url": "https://archive.org/download/isidorihispalensisetymololindsay2/isidorihispalensisetymololindsay2.pdf",
+      "role": "Lindsay 1911 volume II, books XI-XX; title and pilot pages inspected",
+      "bytes": 11277807,
+      "sha256": "b93ce2259313df30b76c7eaa129d8ae39e0fe87d2b76b109570bfd5836536d5a",
+      "local_file_mtime_utc": "2026-11-01T06:32:19.164530+00:00"
+    },
+    {
+      "path": "latin/raw/isidori01isiduoft-metadata.json",
+      "url": "https://archive.org/metadata/isidori01isiduoft",
+      "role": "archive metadata; public-domain label",
+      "bytes": 139954,
+      "sha256": "f2ed430ec1c59c3dd3eb918f8fc6e4df6893550a26d976f8e75ae1b2114629b7",
+      "local_file_mtime_utc": "2026-11-01T06:28:47.703419+00:00"
+    },
+    {
+      "path": "latin/raw/volume-II-metadata.json",
+      "url": "https://archive.org/metadata/isidorihispalensisetymololindsay2",
+      "role": "archive metadata; public-domain mark",
+      "bytes": 89307,
+      "sha256": "3814626abb15e91160f63b527ac45055216f3efd5488a30c461e3f2486e1f8f0",
+      "local_file_mtime_utc": "2026-11-01T06:32:02.511142+00:00"
+    },
+    {
+      "path": "latin/raw/latinlibrary-about.html",
+      "url": "https://www.thelatinlibrary.com/about.html",
+      "role": "transcription provenance and public-domain statement",
+      "bytes": 3420,
+      "sha256": "33dc194899239301ecb63f0b36dd251edd4455a7b0214b61e83fa6ccbf533b39",
+      "local_file_mtime_utc": "2026-11-01T06:30:12.296619+00:00"
+    }
+  ]
+}
