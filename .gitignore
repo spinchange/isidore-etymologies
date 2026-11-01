@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.firecrawl/
+build/
+print-build/
+epub-build/
+runs/
+latin/raw/
+*.tmp
+Thumbs.db
+.DS_Store
