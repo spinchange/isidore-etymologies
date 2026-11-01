@@ -12,4 +12,5 @@ jobs:
           python-version: '3.12'
       - run: python tools/project.py check
       - run: python tools/check_pilot.py
+      - run: python tools/check_reader.py
       - run: python -m unittest discover -s tests -v

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "status": "draft",
+  "sections": [
+    {
+      "ref": "2.1.1",
+      "text": "Rhetoric is the art of speaking well in public affairs: an abundance of eloquence for persuading people of what is just and good. The name rhetoric comes from the Greek ἀπὸ τοῦ ῥητορεύειν, meaning “an abundance of speech.” For among the Greeks, ῥῆσις means “speech,” and ῥήτωρ means “orator.”",
+      "notes": [
+        "Lindsay brackets [eloquentia copia]; the bracketed wording is translated here as “an abundance of eloquence.”"
+      ],
+      "terms": [
+        {"source_form": "Rhetorica", "display_form": "Rhetoric"},
+        {"source_form": "eloquentia copia", "display_form": "abundance of eloquence"},
+        {"source_form": "ἀπὸ τοῦ ῥητορεύειν", "display_form": "ἀπὸ τοῦ ῥητορεύειν"},
+        {"source_form": "Ῥῆσις", "display_form": "ῥῆσις"},
+        {"source_form": "ῥήτωρ", "display_form": "ῥήτωρ"}
+      ]
+    },
+    {
+      "ref": "2.1.2",
+      "text": "Rhetoric is joined to the art of grammar. In grammar we learn how to speak correctly; in rhetoric we learn how to present what we say.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.2.1",
+      "text": "The Greeks invented this discipline—Gorgias, Aristotle, and Hermagoras—and Tullius, Quintilian, and [Titianus] translated it into Latin. They made it so abundant and so varied that a reader can readily marvel at it but cannot grasp it.",
+      "notes": [
+        "Lindsay brackets [et Titiano]; the name is retained in the translation."
+      ],
+      "terms": []
+    },
+    {
+      "ref": "2.2.2",
+      "text": "While the pages are held in the hand, the sequence of words seems to cling to the memory; as soon as they are put away, every recollection slips off. Full mastery of this discipline makes an orator.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.3.1",
+      "text": "An orator, then, is a good man, skilled in speaking. A good man is formed by nature, character, and training. Skill in speaking consists in crafted eloquence, which has five parts: invention, arrangement, style, memory, and delivery. Its purpose is to persuade someone of something.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.3.2",
+      "text": "Skill in speaking itself rests on three things: natural ability, learning, and practice. Natural ability means talent, learning means knowledge, and practice means sustained effort. These are expected not only of an orator but of any skilled person, so that they can produce something.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.4.1",
+      "text": "There are three kinds of case: deliberative, demonstrative, and judicial. Deliberative speech deals with any of life’s concerns, considering what should or should not be done. Demonstrative speech presents a person as worthy of praise or blame.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.4.2",
+      "text": "Judicial speech deals with a person’s actions and gives a judgment about punishment or reward. It is called judicial because it judges a person and its verdict shows whether someone deserves praise and reward, or whether an accused person should be condemned or released from punishment.",
+      "notes": [
+        "The final Latin phrase is compressed and awkward: reus is an accused person, and condemnari liberarique supplicio can be read as “be condemned or released from punishment.” The translation retains the uncertainty rather than deciding the person’s guilt in advance."
+      ],
+      "terms": [
+        {"source_form": "reus", "display_form": "accused person"}
+      ]
+    },
+    {
+      "ref": "2.4.3",
+      "text": "This kind is called deliberative because it considers each question in turn. It has two forms, urging and dissuading: that is, seeking what is desirable and avoiding what should be shunned—in other words, doing something or not doing it.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.4.4",
+      "text": "Persuasive speech is divided according to three grounds: what is honorable, what is useful, and what is possible. It differs somewhat from deliberative speech because persuasion requires another person, while deliberation sometimes takes place within oneself. In persuasion, two things have the greatest force: hope and fear.",
+      "notes": [],
+      "terms": []
+    }
+  ]
+}

@@ -1,6 +1,17 @@
 {
   "schema_version": 1,
   "base_edition": "Lindsay, Oxford, 1911",
+  "abridgment": {
+    "status": "in-progress",
+    "source": "edition/source.json",
+    "translation": "edition/translation.json",
+    "manifest": "edition/manifest.json",
+    "review_records": ["audit/pilot-review.md", "audit/batch-002-review.md"],
+    "reviewed_sections": 27,
+    "selections": 11,
+    "pilot_voice_and_design_approved": "2026-11-01",
+    "whole_work_complete": false
+  },
   "books": [
     {
       "book": 1,

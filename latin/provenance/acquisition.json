@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "recorded_at_utc": "2026-11-01T06:35:53.726945+00:00",
+  "recorded_at_utc": "2026-11-01T07:41:30.099698+00:00",
   "acquisition_date": "2026-11-01",
   "method": "Original responses downloaded with PowerShell Invoke-WebRequest; this script can reproduce missing downloads via urllib.",
   "missing": [],
@@ -204,6 +204,30 @@
       "bytes": 3420,
       "sha256": "33dc194899239301ecb63f0b36dd251edd4455a7b0214b61e83fa6ccbf533b39",
       "local_file_mtime_utc": "2026-11-01T06:30:12.296619+00:00"
+    },
+    {
+      "path": "latin/raw/lindsay-1911-google-volume.pdf",
+      "url": "https://archive.org/download/isidorihispalen00lindgoog/isidorihispalen00lindgoog.pdf",
+      "role": "Alternate volume-I scan; PDF page 102 collated for I.41",
+      "bytes": 12572181,
+      "sha256": "d01c1733d8141dc7cd31e425de14255fa9d17eb5bbac4f1cbf6b0bf73ee14161",
+      "local_file_mtime_utc": "2026-11-01T06:30:12.091274+00:00"
+    },
+    {
+      "path": "latin/raw/isidorihispalen00lindgoog-metadata.json",
+      "url": "https://archive.org/metadata/isidorihispalen00lindgoog",
+      "role": "Alternate scan metadata, 1911, NOT_IN_COPYRIGHT",
+      "bytes": 6150,
+      "sha256": "79953feed52054b7aa94595dafa45b300a16989e9b9862418685fe49b502cb57",
+      "local_file_mtime_utc": "2026-11-01T06:28:48.754958+00:00"
+    },
+    {
+      "path": "latin/raw/google-ocr.xml",
+      "url": "https://archive.org/download/isidorihispalen00lindgoog/isidorihispalen00lindgoog_djvu.xml",
+      "role": "Page-indexed OCR used only to locate alternate scan page",
+      "bytes": 8987899,
+      "sha256": "c602104d9978a28a910a6f12cd92a926156ae98c3e2e261bbe3850607d996ec9",
+      "local_file_mtime_utc": "2026-11-01T07:09:38.619530+00:00"
     }
   ]
 }

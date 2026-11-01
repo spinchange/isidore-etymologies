@@ -4,11 +4,13 @@ A selected English translation of Isidore of Seville's *Etymologiae*, based on
 W. M. Lindsay's Oxford critical edition (1911). The source has twenty books;
 this project is an explicitly abridged edition for general readers.
 
-**Status: sources acquired and an eleven-section translation/design pilot.**
+**Status: approved pilot and a growing, twenty-seven-section reading draft.**
 Both print volumes and all twenty HTML books are acquired. Seventeen books
 are extracted into working JSONL; three source/reference issues are logged.
-Only the pilot Latin is collated; no whole-book completeness is claimed.
-See [pilot/README.md](pilot/README.md) and [HANDOFF.md](HANDOFF.md).
+The selected Latin is collated; no whole-book completeness is claimed.
+The editor approved the pilot's voice, notes, Latin usage, and page design.
+The next sixteen sections emphasize rhetoric, dialectic, and history within
+the trivium. See [edition/README.md](edition/README.md) and [HANDOFF.md](HANDOFF.md).
 
 The intended edition will be free to read and download, with a physical
 edition sold through Lulu. Our original translation, notes, introduction,
@@ -28,14 +30,16 @@ Python 3.12 or later; no third-party dependencies are needed for these commands.
 ```powershell
 python tools/project.py status
 python tools/project.py check
+python tools/check_reader.py
 python -m unittest discover -s tests -v
 python tools/project.py manuscript --books 1 --output build/book-01.md
 ```
 
 The last command is the complete-book exporter: it refuses until Book 1 has verified source
 coverage and an accepted translation. It produces manuscript Markdown,
-not a Lulu-ready PDF. The abridgment pilot has a separate build described in
-[pilot/README.md](pilot/README.md). Production EPUB and website builders remain future work.
+not a Lulu-ready PDF. The cumulative abridgment has a separate build described in
+[edition/README.md](edition/README.md). The original [pilot](pilot/README.md)
+is preserved unchanged. Production EPUB and website builders remain future work.
 
 ## Layout
 
@@ -52,7 +56,9 @@ docs/                   reserved GitHub Pages output (not built yet)
 tools/project.py        inventory, alignment validation, manuscript assembly
 tools/build_pilot.py    6x9 PDF specimen from the reviewed selection
 pilot/                  collated excerpts, draft, audit, reviewed English, task hashes
-output/pdf/             the rendered pilot artifact
+edition/                cumulative reading draft, input hashes, PDF checks
+batches/                fixed source batches, subagent proposals, reviewed text
+output/pdf/             rendered pilot and cumulative reading draft
 tests/                  checks for coverage and publication guards
 HANDOFF.md              current state and next work
 ```

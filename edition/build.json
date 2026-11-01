@@ -1,0 +1,21 @@
+{
+  "built_at_utc": "2026-11-01T07:48:48.142770+00:00",
+  "inputs": {
+    "edition/source.json": "6ffc896a0b7d14014eebf5128bafa10aad8749e097c762f3f36a243c78d567ab",
+    "edition/translation.json": "683a7544c1f061f12153dfbd34a6188d507ba712d9bdb5b1dae2188733da3980",
+    "edition/manifest.json": "65b42de32774374eba21429c88c0b8f31317e5b2124a6455c58f77885feadff7"
+  },
+  "output": "output/pdf/isidore-selected-reader.pdf",
+  "output_sha256": "35d48e1ba64bf04de24876e418698ac75e2c65aa1968c384cacd23ce2e5133db",
+  "builder": "tools/build_reader.py",
+  "builder_sha256": "1f52f1af5f9bbeeb7804bead250f511c94a846068aadd6e948cc1e234db931f2",
+  "pages": 9,
+  "sections": 27,
+  "trim_inches": [
+    6,
+    9
+  ],
+  "body_pt": 11.3,
+  "leading_pt": 15,
+  "status": "reading draft; PDF requires separate visual review; not a Lulu upload file"
+}

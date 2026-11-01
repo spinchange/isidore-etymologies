@@ -1,0 +1,18 @@
+{
+  "checked_at_utc": "2026-11-01T07:48:48.661419+00:00",
+  "pdf_sha256": "35d48e1ba64bf04de24876e418698ac75e2c65aa1968c384cacd23ce2e5133db",
+  "pages": 9,
+  "page_size_points": [
+    432,
+    648
+  ],
+  "embedded_fonts": [
+    "/AAAAAA+Gentium-Bold",
+    "/AAAAAA+Gentium-Italic",
+    "/AAAAAA+Gentium-Regular"
+  ],
+  "paragraphs_preserved": 27,
+  "all_notes_preserved": true,
+  "replacement_characters": false,
+  "visual_review": "Separate lead inspection required after this build; automated text checks do not certify layout."
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "recorded_at_utc": "2026-11-01T07:44:56.486107+00:00",
+  "source": {
+    "path": "batches/002-trivium/source.json",
+    "sha256": "2b21832a323504d797f72a3cbb8c82414efef543fee53d6bda29c7cd380c16f8"
+  },
+  "tasks": [
+    {
+      "task": "draft-oratory",
+      "contributor": "bounded subagent",
+      "model": "gpt-6-luna",
+      "reasoning_effort": "low",
+      "assigned_refs": [
+        "2.1.1",
+        "2.1.2",
+        "2.2.1",
+        "2.2.2",
+        "2.3.1",
+        "2.3.2",
+        "2.4.1",
+        "2.4.2",
+        "2.4.3",
+        "2.4.4"
+      ],
+      "instruction_files": [
+        {
+          "path": "prompts/batch02-oratory.txt",
+          "sha256": "e19b1c1c8944f58710ecc12fd3b638d3a0fde7b41d75c883125000e66abf4b26"
+        }
+      ],
+      "output": {
+        "path": "batches/002-trivium/draft-oratory.json",
+        "sha256": "4a6e91b9a53c20e2607505332534d4d42aac8c670a655c7bf2d7a7acd095ac09"
+      },
+      "notes": [
+        "Instruction file is the archived task contract, not a transcript of every runtime message.",
+        "Draft retained as a proposal; lead review produced separate English."
+      ]
+    },
+    {
+      "task": "draft-logic-history",
+      "contributor": "bounded subagent",
+      "model": "gpt-6-luna",
+      "reasoning_effort": "low",
+      "assigned_refs": [
+        "2.22.1",
+        "2.22.2",
+        "2.23.1",
+        "2.23.2",
+        "1.41.1",
+        "1.41.2"
+      ],
+      "instruction_files": [
+        {
+          "path": "prompts/batch02-logic-history.txt",
+          "sha256": "09a431f4ed4767134118c4856e9defa266ec4ddf797491230040d5b81ebfec31"
+        }
+      ],
+      "output": {
+        "path": "batches/002-trivium/draft-logic-history.json",
+        "sha256": "4f45219ad1353cb387f672803574a59c0280b01bbb1714daec0af75a8cf91ecc"
+      },
+      "notes": [
+        "Instruction file is the archived task contract, not a transcript of every runtime message.",
+        "Logic/history term metadata was corrected on lead follow-up before this output was frozen."
+      ]
+    },
+    {
+      "task": "bounded-draft-audit",
+      "contributor": "same subagent as oratory draft",
+      "model": "gpt-6-luna",
+      "reasoning_effort": "low",
+      "assigned_refs": [
+        "2.1.1",
+        "2.1.2",
+        "2.2.1",
+        "2.2.2",
+        "2.3.1",
+        "2.3.2",
+        "2.4.1",
+        "2.4.2",
+        "2.4.3",
+        "2.4.4",
+        "2.22.1",
+        "2.22.2",
+        "2.23.1",
+        "2.23.2",
+        "1.41.1",
+        "1.41.2"
+      ],
+      "instruction_files": [],
+      "output": {
+        "path": "batches/002-trivium/draft-audit.json",
+        "sha256": "5001aa3c4a16563a6560c817c9bd18210838b8bc43897c27f10c6da08c305210"
+      },
+      "notes": [
+        "Not an independent review: the agent checked its own ten sections too.",
+        "Audit examined drafts during work. No dispatch-time draft hashes were captured; findings quote the wording it observed. The final logic/history metadata was subsequently corrected.",
+        "Contract: source, both drafts; check negations, quantifiers, five parts plus separate purpose, II.4.2 ambiguity, and English incorrectly tagged as Latin. Write proposal JSON only."
+      ]
+    }
+  ],
+  "method": "Fixed source and narrow contracts; model prose is not deterministic. Hashes and reference checks are deterministic.",
+  "review_record": "audit/batch-002-review.md"
+}

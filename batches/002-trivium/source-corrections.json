@@ -1,0 +1,46 @@
+[
+  {
+    "refs": [
+      "2.1.1",
+      "2.1.2"
+    ],
+    "operation": "split-section",
+    "reason": "The HTML has an unbracketed 2, merging printed II.1.2 into II.1.1. The print on PDF page 95 distinguishes the two sections."
+  },
+  {
+    "ref": "2.1.1",
+    "old": "eloquentia copia",
+    "new": "[eloquentia copia]",
+    "reason": "Lindsay brackets this phrase; volume I PDF page 95."
+  },
+  {
+    "ref": "2.1.1",
+    "old": "ῥητορίζειν",
+    "new": "ῥητορεύειν",
+    "reason": "Restore the printed Greek infinitive; volume I PDF page 95."
+  },
+  {
+    "ref": "2.1.2",
+    "old": "didicimus",
+    "new": "dicimus",
+    "reason": "Print reads dicimus, not the HTML didicimus; volume I PDF page 95."
+  },
+  {
+    "ref": "2.22.2",
+    "old": "LEKTON",
+    "new": "λεκτόν",
+    "reason": "Restore the printed Greek word; volume I PDF page 113."
+  },
+  {
+    "ref": "1.41.1",
+    "old": "per quan",
+    "new": "per quam",
+    "reason": "Correct HTML typo against the alternate volume-I scan, PDF page 102."
+  },
+  {
+    "ref": "1.41.1",
+    "old": "APO TOU ISTOREIN",
+    "new": "ἀπὸ τοῦ ἱστορεῖν",
+    "reason": "Restore printed Greek; alternate volume-I scan, PDF page 102."
+  }
+]

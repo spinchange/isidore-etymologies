@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "status": "draft",
+  "sections": [
+    {
+      "ref": "2.22.1",
+      "text": "Dialectica is a discipline devised for examining the causes of things. It is a branch of philosophy called Logica: the power to define, inquire, and reason. In many kinds of questions, it teaches how truth and falsehood are distinguished through argument.",
+      "notes": [],
+      "terms": [
+        {"source_form": "Dialectica", "display_form": "Dialectica"},
+        {"source_form": "Logica", "display_form": "Logica"}
+      ]
+    },
+    {
+      "ref": "2.22.2",
+      "text": "Some of the earliest philosophers included it in their writings, but did not develop it into a formal art. After them, Aristotle brought arguments on this subject under certain rules and named it Dialecticam, because it deals with things said. In Greek, λεκτόν (lekton) means “something said.” Dialectic follows rhetoric because the two disciplines have much in common.",
+      "notes": [],
+      "terms": [
+        {"source_form": "Dialecticam", "display_form": "Dialecticam"},
+        {"source_form": "λεκτόν", "display_form": "λεκτόν"}
+      ]
+    },
+    {
+      "ref": "2.23.1",
+      "text": "Varro defined Dialecticam and Rhetoricam in his nine books on the disciplines with this comparison: “Dialectic and Rhetoric are like a clenched fist and an open palm in a person’s hand: one gathers words in, the other spreads them out.”",
+      "notes": [
+        "This translates Isidore’s quotation attributed to Varro; it does not verify the wording against a surviving book by Varro."
+      ],
+      "terms": [
+        {"source_form": "Dialecticam", "display_form": "Dialecticam"},
+        {"source_form": "Rhetoricam", "display_form": "Rhetoricam"}
+      ]
+    },
+    {
+      "ref": "2.23.2",
+      "text": "Dialectica is sharper for examining subjects; Rhetorica is more eloquent in teaching the things it takes up. Dialectic sometimes comes into the schools; Rhetoric continually goes out into the forum. Dialectic seeks a very few students; Rhetoric, crowds, and often.",
+      "notes": [],
+      "terms": [
+        {"source_form": "Dialectica", "display_form": "Dialectica"},
+        {"source_form": "Rhetorica", "display_form": "Rhetorica"},
+        {"source_form": "nonnumquam", "display_form": "sometimes"},
+        {"source_form": "iugiter", "display_form": "continually"}
+      ]
+    },
+    {
+      "ref": "1.41.1",
+      "text": "History is an account of an event that took place, through which we learn what happened in the past. The Greek word historia is said to come from ἀπὸ τοῦ ἱστορεῖν (apo tou historein), “to see or learn.” For, among the ancients, no one wrote history unless he had been present and had seen the things that were to be recorded. We grasp what happens more reliably with our eyes than from what we gather by hearsay.",
+      "notes": [
+        "The claims about ancient historians and eyewitness knowledge are Isidore’s, presented here without independent verification."
+      ],
+      "terms": [
+        {"source_form": "historia", "display_form": "historia"},
+        {"source_form": "ἱστορεῖν", "display_form": "ἱστορεῖν"}
+      ]
+    },
+    {
+      "ref": "1.41.2",
+      "text": "What is seen is reported without falsehood. This discipline belongs to Grammaticam, Grammar, because whatever is worthy of memory is committed to writing. Historical records are called monumenta (“reminders”) because they give memoriam, memory, of events. A series, series, is named by metaphor from garlands (serta) of flowers, linked together one after another.",
+      "notes": [
+        "The Latin pairs monumenta/memoriam and series/serta carry the wordplay behind Isidore’s explanations."
+      ],
+      "terms": [
+        {"source_form": "Grammaticam", "display_form": "Grammaticam"},
+        {"source_form": "monumenta", "display_form": "monumenta"},
+        {"source_form": "memoriam", "display_form": "memoriam"},
+        {"source_form": "Series", "display_form": "series"},
+        {"source_form": "sertis", "display_form": "garlands"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "status": "proposal",
+  "checked_refs": [
+    "2.1.1",
+    "2.1.2",
+    "2.2.1",
+    "2.2.2",
+    "2.3.1",
+    "2.3.2",
+    "2.4.1",
+    "2.4.2",
+    "2.4.3",
+    "2.4.4",
+    "2.22.1",
+    "2.22.2",
+    "2.23.1",
+    "2.23.2",
+    "1.41.1",
+    "1.41.2"
+  ],
+  "findings": [
+    {
+      "ref": "2.3.1",
+      "kind": "list-count",
+      "latin_evidence": "partibus quinque: inventione, dispositione, elocutione, memoria, pronuntiatione, et fine officii, quod est aliquid persuadere",
+      "draft_evidence": "“five parts: invention, arrangement, style, memory, and delivery. Its purpose is to persuade someone of something.”",
+      "proposed_action": "Keep exactly five parts and present the purpose as a separate sixth element; the current draft does this correctly."
+    },
+    {
+      "ref": "2.4.1",
+      "kind": "negation",
+      "latin_evidence": "quid aut debeat aut non debeat fieri",
+      "draft_evidence": "“what should or should not be done”",
+      "proposed_action": "Preserve both alternatives, including the negation; current draft is faithful."
+    },
+    {
+      "ref": "2.4.2",
+      "kind": "compressed-judgment",
+      "latin_evidence": "utrum laudabilis praemio dignus sit, aut certe reus condemnari liberarique supplicio",
+      "draft_evidence": "“whether someone deserves praise and reward, or whether an accused person should be condemned or released from punishment”",
+      "proposed_action": "Retain the note identifying the compressed syntax and the non-conviction sense of reus. The rendering is plausible, but the Latin does not make the relationship between the alternatives fully clear; keep that uncertainty visible."
+    },
+    {
+      "ref": "2.4.3",
+      "kind": "negation-and-quantifier",
+      "latin_evidence": "de unaquaque re ... genus duplex ... de faciendo et non faciendo",
+      "draft_evidence": "“each question in turn”; “two forms”; “doing something or not doing it”",
+      "proposed_action": "Preserve the universal scope of unaquaque, the two forms, and the negated alternative; the current draft does so."
+    },
+    {
+      "ref": "2.4.4",
+      "kind": "quantifier-and-distinction",
+      "latin_evidence": "in tribus locis ... eget alteram personam, deliberativa interdum et apud se agit ... duae sunt",
+      "draft_evidence": "“three grounds”; “requires another person”; “sometimes takes place within oneself”; “two things”",
+      "proposed_action": "Keep the counts of three and two and the contrast between another person and deliberation within oneself; current draft preserves them."
+    },
+    {
+      "ref": "2.2.1",
+      "kind": "bracketed-name",
+      "latin_evidence": "[et Titiano]",
+      "draft_evidence": "“and [Titianus] translated it into Latin”",
+      "proposed_action": "Keep the bracketed source content visible and identify it as Lindsay’s bracketed addition in the note; the draft currently does so."
+    },
+    {
+      "ref": "2.2.2",
+      "kind": "quantifier-and-sequence",
+      "latin_evidence": "mox repositis recordatio omnis elabitur",
+      "draft_evidence": "“as soon as they are put away, every recollection slips off”",
+      "proposed_action": "Preserve both the immediate sequence and omnis (“every”); current draft does so."
+    },
+    {
+      "ref": "2.23.2",
+      "kind": "quantifier-and-frequency",
+      "latin_evidence": "nonnumquam ... iugiter ... rarissimos ... frequenter et populos",
+      "draft_evidence": "“sometimes” ... “continually” ... “a very few students” ... “crowds, and often”",
+      "proposed_action": "Keep the frequency and audience contrasts. Consider rendering the final clause more naturally as “Dialectic seeks a very few students; Rhetoric, crowds, often.” The draft preserves frequenter, though its final “and often” is awkward."
+    },
+    {
+      "ref": "1.41.1",
+      "kind": "negation-and-quantifier",
+      "latin_evidence": "nemo ... nisi is qui interfuisset, et ea quae conscribenda essent vidisset",
+      "draft_evidence": "“no one wrote history unless he had been present and had seen the things that were to be recorded”",
+      "proposed_action": "Keep the universal negative and both conditions; current draft does so."
+    },
+    {
+      "ref": "1.41.2",
+      "kind": "negative-claim",
+      "latin_evidence": "Quae enim videntur, sine mendacio proferuntur",
+      "draft_evidence": "“What is seen is reported without falsehood.”",
+      "proposed_action": "Current wording preserves Isidore’s claim; keep it attributed to his text as the draft note does."
+    },
+    {
+      "ref": "1.41.2",
+      "kind": "term-mapping",
+      "latin_evidence": "a sertis florum",
+      "draft_evidence": "The paragraph says “garlands (serta)”; the term entry maps source_form “sertis” to display_form “garlands.”",
+      "proposed_action": "Change the display_form to the exact Latin form shown in the paragraph, “serta,” or display the inflected source form “sertis” there and map to that; the current record pairs Latin source with English display."
+    }
+  ]
+}

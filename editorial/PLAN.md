@@ -10,11 +10,15 @@
   when justified, with gaps explicit and no speculative completion.
 - Use bounded low-reasoning subagents with hashed inputs and deterministic
   validation; retain lead editorial review and records.
+- Pilot voice, Latin usage, note approach, and 6x9 design approved 2026-11-01.
+- Give rhetoric and the trivium a prominent place. Keep the first release
+  abridged while preserving a path to a later complete edition.
 
 ## Open decisions
 
 - Final title, domain, and contributor credit wording.
-- English-only or facing Latin/English print edition; test with real pilot pages.
+- The approved print approach is English with Latin key terms; full parallel
+  Latin remains available as data rather than facing print by default.
 - One or several physical volumes, selected after actual pagination and the
   current binding/page-count limits. Do not assume the entire work fits one book.
 - Trim, binding, paper, ink, illustrations, indexing, and publication price.
@@ -25,7 +29,7 @@
 ## Milestones
 
 1. Source acquisition, rights ledger, and complete section inventory.
-2. Short translated and reviewed pilot; register and note design agreed.
+2. Pilot complete and approved; carry its register and note design forward.
 3. Translate the chosen selections with recorded review decisions and omissions.
 4. Complete terminology, cross-references, introduction, and indexes.
 5. Accessible website, aligned data, EPUB, and downloadable reading PDF.

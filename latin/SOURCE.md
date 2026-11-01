@@ -32,9 +32,10 @@ the working HTML corpus is from Latin Library, not a LacusCurtius download.
 
 ## Acquired files and reproducibility
 
-`latin/provenance/acquisition.json` records 25 original responses: twenty HTML
-books, both PDFs, both archive metadata responses, and the transcription's
-about page. It gives URLs, byte sizes, SHA-256 hashes, recording date/time, and
+`latin/provenance/acquisition.json` records 28 original responses: twenty HTML
+books, three PDFs, three archive metadata responses, the alternate volume-I
+DjVu XML, and the transcription's about page. It gives URLs, byte sizes,
+SHA-256 hashes, recording date/time, and
 local file timestamps. Raw responses are kept in ignored `latin/raw/` rather
 than pushed to GitHub. `python tools/acquire_sources.py --fetch` downloads
 missing responses without silently replacing an existing file.
@@ -71,3 +72,14 @@ the 1911 print, not website design or a modern English translation. The scans
 are retained for consultation; their Google front matter and watermarks are
 not reproduced as book content. OCR locates passages but does not settle Greek,
 punctuation, or section numbering.
+
+## Trivium batch collation
+
+Sixteen more sections are fixed in batches/002-trivium/source.json. Volume I
+PDF pages 95-96 and 113-114 supply II.1-3, II.4.1-4, II.22, and II.23.1-2.
+The first volume-I PDF jumps from I.39 to I.42 between pages 93-94; alternate
+Google volume-I PDF page 102 supplies I.41.1-2 and was inspected directly.
+The alternate PDF, metadata, and DjVu XML are now acquired locally. These are
+PDF page ordinals. Corrections are in the batch's source-corrections.json,
+including the HTML's merged II.1 sections and dicimus in II.1.2. The full-book
+files remain uncollated and unchanged.

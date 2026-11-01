@@ -1,7 +1,8 @@
-# Translation conventions - abridgment pilot
+# Translation conventions - abridged edition
 
-The following establishes the pilot register. Refine it after the editor's
-response; no decisions have been tested on the whole work.
+The editor approved the initial pilot register on 2026-11-01. Carry it into
+new selections, with separate fidelity review for each. These decisions have
+not been tested on the whole work.
 
 - Clear contemporary English prose; retain Isidore's organization and voice.
 - Align by numbered Latin section, with paragraph breaks where useful.
@@ -45,5 +46,12 @@ response; no decisions have been tested on the whole work.
 | Latin | English | First reference | Reason / exceptions |
 |---|---|---|---|
 
-No terms have been fixed yet. Add decisions from accepted passages rather than
-prepopulating an untested glossary.
+| Tullius | Cicero | 2.2.1 | Familiar English name. |
+| vir bonus | good man | 2.3.1 | Preserve the ethical definition. |
+| reus | accused person | 2.4.2 | Does not by itself establish conviction. |
+| inventio / dispositio / elocutio / memoria / pronuntiatio | finding what to say / arranging it / putting it into words / memory / delivery | 2.3.1 | Latin headwords accompany the readable five-part list. |
+
+Displayed term metadata identifies Latin or Greek actually shown in English,
+never an English translation to be italicized. Map an inflected source form to
+a headword explicitly. Whole-form, case-sensitive checks prevent accidental
+substring matches; lead review still checks meaning.

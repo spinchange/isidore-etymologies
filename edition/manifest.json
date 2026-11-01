@@ -1,0 +1,57 @@
+{
+  "title": "Words and the World",
+  "subtitle": "Selections from the Etymologies",
+  "version": "Reading draft 02",
+  "output": "output/pdf/isidore-selected-reader.pdf",
+  "front_note": [
+    "This abridged reader brings together selections on words, writing, memory, history, rhetoric, and reasoning. It is thematic and incomplete: the headings are editorial, and gaps between selections are intentional.",
+    "The English carries the explanation. Latin forms remain visible where an argument depends on their sound, spelling, or word shape. The selected passages preserve complete numbered sections; notes clarify editorial brackets and ancient claims. This is a reading draft under review."
+  ],
+  "selection_ids": [
+    "etymology",
+    "writing",
+    "history",
+    "rhetoric",
+    "rhetoric-learning",
+    "orator",
+    "persuasion",
+    "dialectic",
+    "fist-palm",
+    "ants",
+    "bees"
+  ],
+  "parent_inputs": [
+    {
+      "path": "pilot/source.json",
+      "sha256": "718cfed18f1945dfc7dfa2276f40abf7b15558f3e8b9bbacbd490e6089534481"
+    },
+    {
+      "path": "pilot/translation.json",
+      "sha256": "12144dc56755caada5e711ef05e7a64dc06efbb344b52e64b00e23c2cc7bbc7a"
+    },
+    {
+      "path": "batches/002-trivium/source.json",
+      "sha256": "2b21832a323504d797f72a3cbb8c82414efef543fee53d6bda29c7cd380c16f8"
+    },
+    {
+      "path": "batches/002-trivium/translation.json",
+      "sha256": "aaf291c6b90566eea246104e3dc8f34e7187da6c666fc013417961ca5b3218f8"
+    }
+  ],
+  "review_evidence": [
+    {
+      "path": "audit/pilot-review.md",
+      "sha256": "5eef0bb89b030cbaaab48ebf3129fd937f840770dc0f2e6d3004d9bc2c1834bd"
+    },
+    {
+      "path": "audit/batch-002-review.md",
+      "sha256": "d9411f20f0c02135e56e9971c7dfdc462a0d13d015e053f47fee3e9f782233eb"
+    }
+  ],
+  "parent_task_files": [
+    {
+      "path": "batches/002-trivium/tasks.json",
+      "sha256": "91ea06dcd8d9222751ea70f295f4c32a04cbada61c971c9c15aa3833d16bb740"
+    }
+  ]
+}

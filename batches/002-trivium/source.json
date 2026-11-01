@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "batch": "002-trivium",
+  "base_edition": "Lindsay, Oxford, 1911",
+  "status": "selected working Latin collated against printed pages",
+  "source_hashes": {
+    "latin/book-01.jsonl": "6decb9fadb6ceffafa1cfc94f3541fcf11f6cca9f3354a1a04e8246f7f4d8e6c",
+    "latin/book-02.jsonl": "300a6680f8160a3778cc2cc2ac96fb547d414899fdac01af7033aa82069bad5f"
+  },
+  "selections": [
+    {
+      "id": "rhetoric",
+      "title": "What rhetoric is for",
+      "refs": [
+        "2.1.1",
+        "2.1.2"
+      ],
+      "volume": "I",
+      "scan_file": "latin/raw/lindsay-1911-volume-I.pdf",
+      "scan_url": "https://archive.org/details/isidori01isiduoft",
+      "pdf_pages": [
+        95
+      ],
+      "scope": "Complete chapter II.1",
+      "selection_reason": "Rhetoric links correctness, expression, public affairs, and ethical purpose.",
+      "scores": {
+        "reader_interest": 2,
+        "self_contained": 2,
+        "representative": 2
+      },
+      "decision": "include",
+      "decision_date": "2026-11-01",
+      "editor": "lead Codex agent under user-approved scope",
+      "sections": [
+        {
+          "ref": "2.1.1",
+          "latin": "Rhetorica est bene dicendi scientia in civilibus quaestionibus, [eloquentia copia] ad persuadendum iusta et bona. Dicta autem Rhetorica Graeca appellatione ἀπὸ τοῦ ῥητορεύειν, id est a copia locutionis. Ῥῆσις enim apud Graecos locutio dicitur, ῥήτωρ orator."
+        },
+        {
+          "ref": "2.1.2",
+          "latin": "Coniuncta est autem Grammaticae arti Rhetorica. In Grammatica enim scientiam recte loquendi discimus; in Rhetorica vero percipimus qualiter ea, quae dicimus, proferamus."
+        }
+      ]
+    },
+    {
+      "id": "rhetoric-learning",
+      "title": "The art that slips away",
+      "refs": [
+        "2.2.1",
+        "2.2.2"
+      ],
+      "volume": "I",
+      "scan_file": "latin/raw/lindsay-1911-volume-I.pdf",
+      "scan_url": "https://archive.org/details/isidori01isiduoft",
+      "pdf_pages": [
+        95
+      ],
+      "scope": "Complete chapter II.2",
+      "selection_reason": "A short history of the discipline leads to a recognizable experience of reading and forgetting.",
+      "scores": {
+        "reader_interest": 2,
+        "self_contained": 2,
+        "representative": 2
+      },
+      "decision": "include",
+      "decision_date": "2026-11-01",
+      "editor": "lead Codex agent under user-approved scope",
+      "sections": [
+        {
+          "ref": "2.2.1",
+          "latin": "Haec autem disciplina a Graecis inventa est, a Gorgia, Aristotele, Hermagora, et translata in Latinum a Tullio videlicet et Quintiliano [et Titiano], sed ita copiose, ita varie, ut eam lectori admirari in promptu sit, conprehendere inpossibile."
+        },
+        {
+          "ref": "2.2.2",
+          "latin": "Nam membranis retentis quasi adhaerescit memoriae series dictionis, ac mox repositis recordatio omnis elabitur. Huius disciplinae perfecta cognitio oratorem facit."
+        }
+      ]
+    },
+    {
+      "id": "orator",
+      "title": "What makes an orator",
+      "refs": [
+        "2.3.1",
+        "2.3.2"
+      ],
+      "volume": "I",
+      "scan_file": "latin/raw/lindsay-1911-volume-I.pdf",
+      "scan_url": "https://archive.org/details/isidori01isiduoft",
+      "pdf_pages": [
+        95,
+        96
+      ],
+      "scope": "Complete chapter II.3",
+      "selection_reason": "The five parts of rhetoric form a useful map for modern readers.",
+      "scores": {
+        "reader_interest": 2,
+        "self_contained": 2,
+        "representative": 2
+      },
+      "decision": "include",
+      "decision_date": "2026-11-01",
+      "editor": "lead Codex agent under user-approved scope",
+      "sections": [
+        {
+          "ref": "2.3.1",
+          "latin": "Orator est igitur vir bonus, dicendi peritus. Vir bonus consistit natura, moribus, artibus. Dicendi peritus consistit artificiosa eloquentia, quae constat partibus quinque: inventione, dispositione, elocutione, memoria, pronuntiatione, et fine officii, quod est aliquid persuadere."
+        },
+        {
+          "ref": "2.3.2",
+          "latin": "Ipsa autem peritia dicendi in tribus rebus consistit: natura, doctrina, usu. Natura ingenio, doctrina scientia, usus adsiduitate. Haec sunt enim quae non solum in oratore, sed in unoquoque homine artifice expectantur, ut aliquid efficiat."
+        }
+      ]
+    },
+    {
+      "id": "persuasion",
+      "title": "Persuasion, praise, and judgment",
+      "refs": [
+        "2.4.1",
+        "2.4.2",
+        "2.4.3",
+        "2.4.4"
+      ],
+      "volume": "I",
+      "scan_file": "latin/raw/lindsay-1911-volume-I.pdf",
+      "scan_url": "https://archive.org/details/isidori01isiduoft",
+      "pdf_pages": [
+        96
+      ],
+      "scope": "Four complete sections, II.4.1-4; the remainder of chapter II.4 is not included",
+      "selection_reason": "The three kinds of speech and the roles of hope and fear remain engaging without the longer sequence of quotations.",
+      "scores": {
+        "reader_interest": 2,
+        "self_contained": 2,
+        "representative": 2
+      },
+      "decision": "include",
+      "decision_date": "2026-11-01",
+      "editor": "lead Codex agent under user-approved scope",
+      "sections": [
+        {
+          "ref": "2.4.1",
+          "latin": "Genera causarum tria sunt, deliberativum, demonstrativum, iudiciale. Deliberativum genus est, in quo de quibuslibet utilitatibus vitae, quid aut debeat aut non debeat fieri, tractatur. Demonstrativum, in quo laudabilis persona aut reprehensibilis ostenditur."
+        },
+        {
+          "ref": "2.4.2",
+          "latin": "Iudiciale, in quo de ipsius personae facto aut poenae aut praemii sententia datur. Dictum autem iudiciale eo, quod iudicet hominem, et sententia sua ostendat utrum laudabilis praemio dignus sit, aut certe reus condemnari liberarique supplicio."
+        },
+        {
+          "ref": "2.4.3",
+          "latin": "Deliberativum genus vocatur eo, quod de unaquaque re in eo deliberatur. Huius genus duplex est, suasio et dissuasio, id est de expetendo et fugiendo, id est de faciendo et non faciendo."
+        },
+        {
+          "ref": "2.4.4",
+          "latin": "Suasoria autem in tribus locis dividitur: honesto, utili, et possibili. Haec differt aliquid a deliberativa, quia suasoria eget alteram personam, deliberativa interdum et apud se agit. In suasoria autem duae sunt quae plus valent: spes et metus."
+        }
+      ]
+    },
+    {
+      "id": "dialectic",
+      "title": "Learning how to argue",
+      "refs": [
+        "2.22.1",
+        "2.22.2"
+      ],
+      "volume": "I",
+      "scan_file": "latin/raw/lindsay-1911-volume-I.pdf",
+      "scan_url": "https://archive.org/details/isidori01isiduoft",
+      "pdf_pages": [
+        113
+      ],
+      "scope": "Complete chapter II.22",
+      "selection_reason": "Logic as a method of inquiry and distinction between true and false.",
+      "scores": {
+        "reader_interest": 2,
+        "self_contained": 2,
+        "representative": 2
+      },
+      "decision": "include",
+      "decision_date": "2026-11-01",
+      "editor": "lead Codex agent under user-approved scope",
+      "sections": [
+        {
+          "ref": "2.22.1",
+          "latin": "Dialectica est disciplina ad disserendas rerum causas inventa. Ipsa est philosophiae species, quae Logica dicitur, id est rationalis definiendi, quaerendi et disserendi potens. Docet enim in pluribus generibus quaestionum quemadmodum disputando vera et falsa diiudicentur."
+        },
+        {
+          "ref": "2.22.2",
+          "latin": "Hanc quidam primi philosophi in suis dictionibus habuerunt; non tamen ad artis redegere peritiam. Post hos Aristoteles ad regulas quasdam huius doctrinae argumenta perduxit, et Dialecticam nuncupavit, pro eo quod in ea de dictis disputatur. Nam λεκτόν dictio dicitur. Ideo autem post Rhetoricam disciplinam Dialectica sequitur, quia in multis utraque communia existunt."
+        }
+      ]
+    },
+    {
+      "id": "fist-palm",
+      "title": "The closed fist and the open hand",
+      "refs": [
+        "2.23.1",
+        "2.23.2"
+      ],
+      "volume": "I",
+      "scan_file": "latin/raw/lindsay-1911-volume-I.pdf",
+      "scan_url": "https://archive.org/details/isidori01isiduoft",
+      "pdf_pages": [
+        113,
+        114
+      ],
+      "scope": "Two complete sections, II.23.1-2; the transition to philosophy in II.23.3 is not included",
+      "selection_reason": "A compact, memorable image connects reasoning, public speech, and audience.",
+      "scores": {
+        "reader_interest": 2,
+        "self_contained": 2,
+        "representative": 2
+      },
+      "decision": "include",
+      "decision_date": "2026-11-01",
+      "editor": "lead Codex agent under user-approved scope",
+      "sections": [
+        {
+          "ref": "2.23.1",
+          "latin": "Dialecticam et Rhetoricam Varro in novem disciplinarum libris tali similitudine definivit: \"Dialectica et Rhetorica est quod in manu hominis pugnus adstrictus et palma distensa: illa verba contrahens, ista distendens\""
+        },
+        {
+          "ref": "2.23.2",
+          "latin": "Dialectica siquidem ad disserendas res acutior: Rhetorica ad illa quae nititur docenda facundior. Illa ad scholas nonnumquam venit: ista iugiter procedit in forum. Illa requirit rarissimos studiosos: haec frequenter et populos."
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "title": "What an eyewitness can tell",
+      "refs": [
+        "1.41.1",
+        "1.41.2"
+      ],
+      "volume": "I",
+      "scan_file": "latin/raw/lindsay-1911-google-volume.pdf",
+      "scan_url": "https://archive.org/details/isidorihispalen00lindgoog",
+      "pdf_pages": [
+        102
+      ],
+      "scope": "Complete chapter I.41",
+      "selection_reason": "Connects grammar with memory, history, and claims to eyewitness knowledge.",
+      "scores": {
+        "reader_interest": 2,
+        "self_contained": 2,
+        "representative": 2
+      },
+      "decision": "include",
+      "decision_date": "2026-11-01",
+      "editor": "lead Codex agent under user-approved scope",
+      "sections": [
+        {
+          "ref": "1.41.1",
+          "latin": "Historia est narratio rei gestae, per quam ea, quae in praeterito facta sunt, dinoscuntur. Dicta autem Graece historia ἀπὸ τοῦ ἱστορεῖν, id est a videre vel cognoscere. Apud veteres enim nemo conscribebat historiam, nisi is qui interfuisset, et ea quae conscribenda essent vidisset. Melius enim oculis quae fiunt deprehendimus, quam quae auditione colligimus."
+        },
+        {
+          "ref": "1.41.2",
+          "latin": "Quae enim videntur, sine mendacio proferuntur. Haec disciplina ad Grammaticam pertinet, quia quidquid dignum memoria est litteris mandatur. Historiae autem ideo monumenta dicuntur, eo quod memoriam tribuant rerum gestarum. Series autem dicta per translationem a sertis florum invicem conprehensarum."
+        }
+      ]
+    }
+  ]
+}

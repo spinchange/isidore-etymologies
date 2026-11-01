@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "status": "lead-reviewed-batch",
+  "source_file": "batches/002-trivium/source.json",
+  "review_record": "audit/batch-002-review.md",
+  "sections": [
+    {
+      "ref": "2.1.1",
+      "text": "Rhetoric is the knowledge of speaking well in public affairs, using a wealth of eloquence to persuade people toward what is right and good. Its Greek name comes from rhetoreuein (ῥητορεύειν), that is, fullness of speech. In Greek, rhēsis (Ῥῆσις) means speech, and rhētōr (ῥήτωρ) means orator.",
+      "notes": [
+        "Lindsay places the phrase translated as “a wealth of eloquence” in editorial brackets. It is included here."
+      ],
+      "terms": [
+        {
+          "source_form": "ῥητορεύειν",
+          "display_form": "ῥητορεύειν"
+        },
+        {
+          "source_form": "Ῥῆσις",
+          "display_form": "Ῥῆσις"
+        },
+        {
+          "source_form": "ῥήτωρ",
+          "display_form": "ῥήτωρ"
+        }
+      ]
+    },
+    {
+      "ref": "2.1.2",
+      "text": "Rhetoric is joined to the art of grammar. In grammar we learn how to speak correctly; in rhetoric we learn how to present what we say.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.2.1",
+      "text": "This discipline was invented by the Greeks - by Gorgias, Aristotle, and Hermagoras - and brought into Latin by Cicero, Quintilian, and Titianus. The treatment is so rich and so varied that a reader can readily admire it but cannot take it all in.",
+      "notes": [
+        "Lindsay brackets “and Titianus”; the name is retained here."
+      ],
+      "terms": []
+    },
+    {
+      "ref": "2.2.2",
+      "text": "While we have the pages in hand, the sequence of words seems to cling to memory. As soon as we put them away, it all slips out again. Full mastery of this discipline makes an orator.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.3.1",
+      "text": "An orator, then, is a good man, skilled in speaking. A good man is formed by nature, character, and training. Skill in speaking rests on a trained eloquence with five parts: finding what to say (inventio), arranging it (dispositio), putting it into words (elocutio), memory (memoria), and delivery (pronuntiatio). The aim of the work is to persuade someone of something.",
+      "notes": [],
+      "terms": [
+        {
+          "source_form": "inventione",
+          "display_form": "inventio"
+        },
+        {
+          "source_form": "dispositione",
+          "display_form": "dispositio"
+        },
+        {
+          "source_form": "elocutione",
+          "display_form": "elocutio"
+        },
+        {
+          "source_form": "memoria",
+          "display_form": "memoria"
+        },
+        {
+          "source_form": "pronuntiatione",
+          "display_form": "pronuntiatio"
+        }
+      ]
+    },
+    {
+      "ref": "2.3.2",
+      "text": "Skill in speaking rests on three things: natural ability, learning, and practice. Natural ability means talent, learning means knowledge, and practice means sustained effort. These are expected not only of an orator but of any skilled person, if they are to accomplish anything.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.4.1",
+      "text": "There are three kinds of case: deliberative, demonstrative, and judicial. Deliberative speech considers what should or should not be done in any of life’s practical concerns. Demonstrative speech presents a person as worthy of praise or blame.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.4.2",
+      "text": "Judicial speech passes judgment on a person’s actions, deciding on punishment or reward. It is called judicial (iudiciale) because it judges (iudicet) a person: its verdict shows whether someone is praiseworthy and deserves a reward, or whether an accused person should be condemned or released from punishment.",
+      "notes": [
+        "“Accused” renders reus. The compressed final phrase allows condemnation or release from punishment."
+      ],
+      "terms": [
+        {
+          "source_form": "iudiciale",
+          "display_form": "iudiciale"
+        },
+        {
+          "source_form": "iudicet",
+          "display_form": "iudicet"
+        }
+      ]
+    },
+    {
+      "ref": "2.4.3",
+      "text": "It is called deliberative (deliberativum) because each matter is considered (deliberatur) within it. It has two forms, persuasion and dissuasion: seeking and avoiding, doing and not doing.",
+      "notes": [],
+      "terms": [
+        {
+          "source_form": "Deliberativum",
+          "display_form": "deliberativum"
+        },
+        {
+          "source_form": "deliberatur",
+          "display_form": "deliberatur"
+        }
+      ]
+    },
+    {
+      "ref": "2.4.4",
+      "text": "Persuasive speech has three grounds: what is honorable, what is useful, and what is possible. It differs somewhat from deliberative speech because persuasion needs another person, while deliberation sometimes takes place within oneself. In persuasion, two things have the greatest force: hope and fear.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.22.1",
+      "text": "Dialectic is a discipline devised to examine the causes of things. It is a branch of philosophy called logic (logica), a rational discipline able to define, inquire, and reason. In many kinds of question, it teaches how to judge through argument what is true and what is false.",
+      "notes": [],
+      "terms": [
+        {
+          "source_form": "Logica",
+          "display_form": "logica"
+        }
+      ]
+    },
+    {
+      "ref": "2.22.2",
+      "text": "Some of the earliest philosophers used it in their discussions, without developing it into a formal art. After them, Aristotle brought the arguments of this teaching under certain rules and called it dialectic (dialectica), because it debates things said (de dictis). For lekton (λεκτόν) means an utterance. Dialectic follows rhetoric because the two have much in common.",
+      "notes": [],
+      "terms": [
+        {
+          "source_form": "Dialecticam",
+          "display_form": "dialectica"
+        },
+        {
+          "source_form": "de dictis",
+          "display_form": "de dictis"
+        },
+        {
+          "source_form": "λεκτόν",
+          "display_form": "λεκτόν"
+        }
+      ]
+    },
+    {
+      "ref": "2.23.1",
+      "text": "Varro, in his nine books on the disciplines, defined dialectic and rhetoric by this comparison: “Dialectic and rhetoric are like a clenched fist and an open palm in a human hand. The one draws words together; the other spreads them out.”",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "2.23.2",
+      "text": "Dialectic is sharper in examining a subject; rhetoric is more eloquent in teaching what it sets out to teach. Dialectic sometimes comes into the schools; rhetoric continually goes out into the forum. Dialectic seeks a rare few students; rhetoric often addresses the public as well.",
+      "notes": [],
+      "terms": []
+    },
+    {
+      "ref": "1.41.1",
+      "text": "History is an account of an event, through which what happened in the past is made known. Its Greek name, historia, comes from historein (ἱστορεῖν), meaning to see or to know. Among the ancients, no one wrote history unless he had been there and seen what he was going to record. We grasp what happens better with our eyes than from what we gather by hearing.",
+      "notes": [
+        "For Isidore, the authority of history lies in being present and seeing. His confidence in eyewitness truth belongs to his definition."
+      ],
+      "terms": [
+        {
+          "source_form": "historia",
+          "display_form": "historia"
+        },
+        {
+          "source_form": "ἱστορεῖν",
+          "display_form": "ἱστορεῖν"
+        }
+      ]
+    },
+    {
+      "ref": "1.41.2",
+      "text": "What has been seen is reported without falsehood. This discipline belongs to grammar because whatever is worth remembering is entrusted to writing. Historical works are called monuments (monumenta) because they preserve the memory (memoriam) of events. A sequence (series) takes its name by metaphor from garlands (sertis) of flowers linked together.",
+      "notes": [],
+      "terms": [
+        {
+          "source_form": "monumenta",
+          "display_form": "monumenta"
+        },
+        {
+          "source_form": "memoriam",
+          "display_form": "memoriam"
+        },
+        {
+          "source_form": "Series",
+          "display_form": "series"
+        },
+        {
+          "source_form": "sertis",
+          "display_form": "sertis"
+        }
+      ]
+    }
+  ]
+}

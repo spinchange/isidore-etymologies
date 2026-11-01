@@ -21,6 +21,9 @@ SOURCES = [
     ("isidori01isiduoft-metadata.json", "https://archive.org/metadata/isidori01isiduoft", "archive metadata; public-domain label"),
     ("volume-II-metadata.json", "https://archive.org/metadata/isidorihispalensisetymololindsay2", "archive metadata; public-domain mark"),
     ("latinlibrary-about.html", "https://www.thelatinlibrary.com/about.html", "transcription provenance and public-domain statement"),
+    ("lindsay-1911-google-volume.pdf", "https://archive.org/download/isidorihispalen00lindgoog/isidorihispalen00lindgoog.pdf", "Alternate volume-I scan; PDF page 102 collated for I.41"),
+    ("isidorihispalen00lindgoog-metadata.json", "https://archive.org/metadata/isidorihispalen00lindgoog", "Alternate scan metadata, 1911, NOT_IN_COPYRIGHT"),
+    ("google-ocr.xml", "https://archive.org/download/isidorihispalen00lindgoog/isidorihispalen00lindgoog_djvu.xml", "Page-indexed OCR used only to locate alternate scan page"),
 ]
 
 
